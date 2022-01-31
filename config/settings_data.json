@@ -1,0 +1,1801 @@
+{
+  "current": {
+    "sticky_header": true,
+    "sticky_announcement_bar": true,
+    "hero_header": false,
+    "height_header": 100,
+    "height_header_mobile": 70,
+    "icon": "material-icons-outlined",
+    "grid_product_truncate": false,
+    "collection_grid_card": false,
+    "collection_grid_products_count": false,
+    "collection_grid_animation": true,
+    "collection_grid_button_style": "",
+    "word_count": 33,
+    "show_currency_selector": false,
+    "localization_position": "header",
+    "newsletter_name": false,
+    "newsletter_optin": false,
+    "section_height": "small",
+    "section_height_mobile": "small",
+    "border_radius": 1,
+    "button_padding_x": 30,
+    "button_padding_y": 15,
+    "show_top_button": false,
+    "top_button_mobile": false,
+    "top_button_position": "right",
+    "page_wrapper": "1248",
+    "payment_icon_size": 24,
+    "sale_type": "percentage",
+    "zindex_drawer": "999",
+    "cart_notes_enable": false,
+    "color_announcement_bg": "#ff891d",
+    "color_nav_text": "#252525",
+    "color_default": "#f7f7f7",
+    "color_headings": "#252525",
+    "color_body_text": "#353535",
+    "color_primary": "#398e82",
+    "color_secondary": "#398e82",
+    "color_accent": "#f48400",
+    "color_drawer_bg": "#f7f7f7",
+    "color_drawer_default": "#eaeaea",
+    "color_drawer_border": "#e7e7e7",
+    "color_drawer_text": "#444444",
+    "color_drawer_primary": "#398e82",
+    "color_drawer_button_text": "#eaeaea",
+    "color_drawer_secondary": "#398e82",
+    "color_drawer_input": "#ffffff",
+    "color_drawer_error_text": "#f48400",
+    "color_drawer_sales_price": "#f48400",
+    "color_drawer_overlay": "#202020",
+    "color_drawer_overlay_opacity": 35,
+    "color_footer_default": "#bbe4e1",
+    "color_footer_primary": "#398e82",
+    "color_footer_secondary": "#398e82",
+    "color_footer_sales_price": "#398e82",
+    "color_overlay": "#252525",
+    "color_transparent_nav_text": "#f7f7f7",
+    "opacity_overlay": 16,
+    "favicon": "shopify:\/\/shop_images\/Favicon.png",
+    "social_facebook_link": "https:\/\/www.facebook.com\/anodyne.dk",
+    "social_instagram_link": "https:\/\/www.instagram.com\/anodyne.dk",
+    "header_family": "poppins_n4",
+    "header_font_size": 32,
+    "header_font_size_big": 50,
+    "header_spacing": 0.1,
+    "accent_spacing": 0.1,
+    "button_uppercase": true,
+    "base_family": "avenir_next_n4",
+    "base_font_size": 15,
+    "custom_quantity_breaks": true,
+    "dbtfy_back_in_stock": true,
+    "dbtfy_cart_countdown": false,
+    "dbtfy_cart_favicon": false,
+    "dbtfy_collection_addtocart": false,
+    "dbtfy_collection_filters": false,
+    "dbtfy_color_swatches": true,
+    "dbtfy_cookie_box": false,
+    "dbtfy_custom_currencies": false,
+    "dbtfy_delivery_time": false,
+    "dbtfy_inactive_tab_message": false,
+    "dbtfy_instagram_feed": false,
+    "dbtfy_inventory_quantity": false,
+    "dbtfy_linked_options": true,
+    "dbtfy_live_view": false,
+    "dbtfy_mega_menu": true,
+    "dbtfy_newsletter_popup": false,
+    "dbtfy_order_feedback": false,
+    "dbtfy_order_tracking": false,
+    "dbtfy_product_tabs": true,
+    "dbtfy_quantity_breaks": false,
+    "dbtfy_quick_view": false,
+    "dbtfy_recently_viewed": false,
+    "dbtfy_sales_countdown": false,
+    "dbtfy_sales_pop": false,
+    "dbtfy_shop_protect": false,
+    "dbtfy_skip_cart": false,
+    "dbtfy_size_chart": false,
+    "dbtfy_sticky_addtocart": false,
+    "synced_variant_image": false,
+    "dbtfy_upsell_popup": true,
+    "dbtfy_wish_list": false,
+    "dbtfy_addtocart_animation_type": "pulse",
+    "dbtfy_addtocart_animation_interval": 15,
+    "dbtfy_agree_text": "<p>Jeg accepterer handelsbetingelserne<\/p>",
+    "dbtfy_agree_warning_text": "<p>Du skal acceptere vores handelsbetingelser<\/p>",
+    "dbtfy_agree_order_title": "Jeg accepterer handelsbetingelserne",
+    "dbtfy_back_in_stock_richtext": "<p>Giv mig besked når produktet er tilbage på lager<\/p>",
+    "dbtfy_back_in_stock_btn": "Giv mig besked",
+    "dbtfy_back_in_stock_btn_animation": true,
+    "dbtfy_back_in_stock_success": "<p>Vi sender dig en E-mail så snart produktet er på lager igen<\/p>",
+    "dbtfy_back_in_stock_body_prefix": "Giv mig besked når",
+    "dbtfy_back_in_stock_body_suffix": "er tilgængeligt igen -",
+    "dbtfy_cart_discount_label": "Rabatkode eller gavekort?",
+    "dbtfy_cart_discount_placeholder": "Indtast koden her",
+    "dbtfy_cart_discount_apply_button_label": "Brug kode",
+    "nlify_cart_notification": "Har du valgt den rigtige størrelse? Husk at tjekke størrelsesguiden inden købet.",
+    "dbtfy_cart_goal_before_text": "Endnu",
+    "dbtfy_cart_goal_amount": "399",
+    "dbtfy_cart_goal_after_text": "til gratis forsendelse.",
+    "dbtfy_cart_goal_reached_text": "Gratis levering til pakkeshop",
+    "dbtfy_cart_discount_savings_label": "Total besparelse",
+    "dbtfy_cookie_box_text": "<p>Anodyne ApS bruger cookies til at indsamle statistik, der kan være med til at forbedre brugeroplevelsen samt til at målrette markedsføring. Cookies er vigtige for at vores website vises korrekt i din browser. Hvis du klikker 'Accepter' eller klikker på et link på vores website, accepterer du samtidig vores cookie- og persondatapolitik. <\/p><p><a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">Læs mere om vores persondatapolitik og brug af cookies<\/a><\/p>",
+    "dbtfy_cookie_box_button_label": "Acceptér cookies",
+    "dbtfy_inactive_tab_message_text_first": "👕 up to 50% off",
+    "dbtfy_inactive_tab_message_text_second": "👕 Anodyne discounts",
+    "dbtfy_infinite_scroll_loading_text": "Indlæs flere",
+    "dbtfy_inventory_quantity_threshold": 20,
+    "dbtfy_menu_bar_link_list": "main-menu",
+    "dbtfy_menu_bar_mobile": false,
+    "dbtfy_menu_bar_desktop": false,
+    "dbtfy_newsletter_floating_bar": false,
+    "dbtfy_floating_bar_text": "",
+    "dbtfy_newsletter_popup_title": "Spar 10% ekstra på din ordre",
+    "dbtfy_newsletter_popup_text": "<p>Tilmeld dig vores nyhedsbrev og få en<strong> 10% RABATKODE<\/strong> til dit næste køb.<\/p>",
+    "dbtfy_newsletter_popup_close": "Nej tak",
+    "dbtfy_newsletter_popup_exit_intent": false,
+    "dbtfy_newsletter_popup_title_success": "Tak for din tilmelding!",
+    "dbtfy_newsletter_popup_text_success": "<p>Kopiér koden og indsæt den i rabatkodefeltet i indkøbskurven, ﻿så fratrækkes rabatten automatisk.<\/p>",
+    "dbtfy_newsletter_popup_reward_button": "Brug rabatkode",
+    "dbtfy_newsletter_popup_discount_name": "R6QG30",
+    "dbtfy_newsletter_popup_discount_amount": "10",
+    "dbtfy_order_feedback_select_title": "Hvor har du fundet os?",
+    "dbtfy_order_feedback_default_options": "Vælg en mulighed",
+    "dbtfy_order_feedback_select_options": "Fysioterapeut, Sociale Medier, Google, Kiropraktor, Ven\/familie",
+    "dbtfy_order_feedback_error_message": "Vælg en mulighed",
+    "dbtfy_order_feedback_other_option": "Andet",
+    "dbtfy_order_feedback_other_placeholder": "Uddyb venligst",
+    "dbtfy_order_feedback_error_message_other": "Uddyb venligst",
+    "dbtfy_order_feedback_title": "Hvor har du fundet os?",
+    "dbtfy_order_feedback_other_title": "Hvor har du fundet os? (andet)",
+    "dbtfy_recently_viewed_title": "Sidste sete produkter",
+    "dbtfy_smart_search_products": "Produkter",
+    "dbtfy_smart_search_collections": "Collectioner",
+    "dbtfy_smart_search_articles": "Artikler",
+    "dbtfy_smart_search_pages": "Sider",
+    "dbtfy_smart_search_all": "Vis alle resultater",
+    "dbtfy_social_discount_link": "Del og få 10% rabat",
+    "dbtfy_social_discount_popup_title": "Del og få 10% rabat",
+    "dbtfy_social_discount_popup_text": "Del med dine venner og få 10% rabat",
+    "dbtfy_social_discount_reward_title": "Tak, fordi du delte",
+    "dbtfy_social_discount_reward_text": "<p>Kopier rabatkoden herunder og tilføje den i rabatkodefeltet i indkøbskurven<\/p>",
+    "dbtfy_social_discount_reward_button": "Brug rabatkode",
+    "dbtfy_social_discount_reward_code": "20GWS15",
+    "dbtfy_social_discount_reward_amount": "10",
+    "dbtfy_trust_badge_image": "shopify:\/\/shop_images\/Payment_denmark.png",
+    "dbtfy_trust_badge_text": "Nem, hurtig og sikker betaling",
+    "dbtfy_wish_list_add_text": "Føj til ønskeliste",
+    "dbtfy_wish_list_remove_text": "Fjern fra ønskeliste",
+    "dbtfy_wish_list_empty_text": "Tøm ønskeliste",
+    "dbtfy_wish_list_share_label": "Del ønskeliste",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Anodyne_black_medium_6728745e-a674-486e-8077-9faaf5a75715.png",
+    "checkout_logo_size": "medium",
+    "checkout_accent_color": "#398e82",
+    "checkout_button_color": "#398e82",
+    "custom_inventory_quantity": true,
+    "sections": {
+      "dbtfy-upsell-popup": {
+        "type": "dbtfy-upsell-popup",
+        "settings": {
+          "dbtfy_upsell_popup_width": "",
+          "dbtfy_upsell_popup_description": "See product details",
+          "dbtfy_upsell_popup_cart": "No thanks",
+          "dbtfy_upsell_popup_checkout": "Go to checkout →",
+          "text_alignment": "text-center",
+          "dbtfy_upsell_popup_range": 75
+        }
+      },
+      "dbtfy-quantity-breaks": {
+        "type": "dbtfy-quantity-breaks",
+        "blocks": {
+          "3ecae9fd-6b11-4a20-84b1-0e99e2faaaa2": {
+            "type": "product-break",
+            "settings": {
+              "product_break_show_on_product_page": true,
+              "product_break_visibility": "collection",
+              "product_break_collection": "posture-shirt",
+              "product_break_types": "",
+              "product_break_tags": "",
+              "product_break_product": "",
+              "product_break_range_1": 2,
+              "product_break_discount_code_1": "Test2",
+              "product_break_discount_amount_1": "10",
+              "product_break_discount_type_1": "$",
+              "product_break_range_2": 3,
+              "product_break_discount_code_2": "Test3",
+              "product_break_discount_amount_2": "12",
+              "product_break_discount_type_2": "$",
+              "product_break_range_3": 2,
+              "product_break_discount_code_3": "",
+              "product_break_discount_amount_3": "",
+              "product_break_discount_type_3": "%",
+              "product_break_range_4": 2,
+              "product_break_discount_code_4": "",
+              "product_break_discount_amount_4": "",
+              "product_break_discount_type_4": "%",
+              "product_break_range_5": 2,
+              "product_break_discount_code_5": "",
+              "product_break_discount_amount_5": "",
+              "product_break_discount_type_5": "%"
+            }
+          },
+          "8893dfdd-3b93-46ae-af01-1c25d217f5fc": {
+            "type": "cart-break",
+            "settings": {
+              "cart_break_range": 2,
+              "cart_break_discount_code": "",
+              "cart_break_discount_amount": "",
+              "cart_break_discount_type": "%"
+            }
+          }
+        },
+        "block_order": [
+          "3ecae9fd-6b11-4a20-84b1-0e99e2faaaa2",
+          "8893dfdd-3b93-46ae-af01-1c25d217f5fc"
+        ],
+        "settings": {
+          "dbtfy_quantity_breaks_text": "test",
+          "dbtfy_quantity_breaks_single_text": "Buy _COUNT_: _PRICE_ _SAVED_AMOUNT_",
+          "dbtfy_quantity_breaks_price_type": "total_price",
+          "dbtfy_quantity_breaks_more_discount_text_before": "Add",
+          "dbtfy_quantity_breaks_more_discount_text_after": "more item to unlock",
+          "dbtfy_quantity_breaks_more_discount_text_after_percentage": "off",
+          "dbtfy_quantity_breaks_highest_discount_text": "Highest discount applied!"
+        }
+      },
+      "dbtfy-cart-upsell": {
+        "type": "dbtfy-cart-upsell",
+        "blocks": {
+          "eda47616-f2ab-4615-8281-7b159e2ca931": {
+            "type": "cart-upsell",
+            "settings": {
+              "dbtfy_cart_general_upsell_title": "Forlæng levetiden på din Posture Shirt eller BH med en vaskepose",
+              "dbtfy_cart_general_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_general_upsell_btn_title": "Ja tak"
+            }
+          },
+          "83f80c2a-10c7-4103-9838-7491836cbbe1": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "2a4f8ca2-499e-4231-bb54-cb5b2ffebd7b": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-sort",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "0e3fca14-65af-4c3e-b9b2-6aac8f23b41a": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-sort",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "a46471d3-85e8-43fb-a970-840fd53d21e6": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-hvid",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "1c7c590d-e045-4dcb-98d9-7473ccecfd6f": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-hvid",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "72be6422-26f6-4859-8cf9-5aac71f8d1eb": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-sort",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "7d9b43fa-20d3-4841-a552-93f9cfbb49c1": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-sort",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "bd77e9e8-8a13-4166-8e38-248d00a18ec9": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-hvid",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "bb2c4816-9913-4612-8bf6-5944f36f3ca3": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-hvid",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "ed028377-3d6a-4293-835e-79574ce89c49": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-mint",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "94b707a2-a503-4a8f-b30c-aab29d053837": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-bordeaux",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "e379318f-cc80-4e5d-ae95-2db2dc3becb9": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "08772725-b15b-4b94-8bfd-aa7354171c64": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          }
+        },
+        "block_order": [
+          "eda47616-f2ab-4615-8281-7b159e2ca931",
+          "83f80c2a-10c7-4103-9838-7491836cbbe1",
+          "2a4f8ca2-499e-4231-bb54-cb5b2ffebd7b",
+          "0e3fca14-65af-4c3e-b9b2-6aac8f23b41a",
+          "a46471d3-85e8-43fb-a970-840fd53d21e6",
+          "1c7c590d-e045-4dcb-98d9-7473ccecfd6f",
+          "72be6422-26f6-4859-8cf9-5aac71f8d1eb",
+          "7d9b43fa-20d3-4841-a552-93f9cfbb49c1",
+          "bd77e9e8-8a13-4166-8e38-248d00a18ec9",
+          "bb2c4816-9913-4612-8bf6-5944f36f3ca3",
+          "ed028377-3d6a-4293-835e-79574ce89c49",
+          "94b707a2-a503-4a8f-b30c-aab29d053837",
+          "e379318f-cc80-4e5d-ae95-2db2dc3becb9",
+          "08772725-b15b-4b94-8bfd-aa7354171c64"
+        ],
+        "settings": {
+          "dbtfy_cart_upsell_button_style": "btn--primary"
+        }
+      },
+      "dbtfy-color-swatches": {
+        "type": "dbtfy-color-swatches",
+        "settings": {}
+      },
+      "dbtfy-bullet-points": {
+        "type": "dbtfy-bullet-points",
+        "settings": {
+          "dbtfy_bullet_points_position": "under-addtocart-button"
+        }
+      },
+      "dbtfy-sales-countdown": {
+        "type": "dbtfy-sales-countdown",
+        "settings": {
+          "dbtfy_sales_countdown_icons": "local_fire_department",
+          "dbtfy_sales_countdown_prefix": "Sale ends in",
+          "dbtfy_sales_countdown_suffix": "",
+          "dbtfy_sales_countdown_d": "d",
+          "dbtfy_sales_countdown_h": "h",
+          "dbtfy_sales_countdown_m": "m",
+          "dbtfy_sales_countdown_s": "s"
+        }
+      },
+      "dbtfy-delivery-time": {
+        "type": "dbtfy-delivery-time",
+        "settings": {
+          "dbtfy_delivery_time_position": "under-addtocart-button"
+        }
+      },
+      "dbtfy-size-chart": {
+        "type": "dbtfy-size-chart",
+        "settings": {
+          "dbtfy_size_chart_icon": "straighten",
+          "dbtfy_size_chart_title": "Size chart",
+          "dbtfy_size_chart_width": "large"
+        }
+      },
+      "drawer-menu": {
+        "type": "drawer-menu",
+        "settings": {
+          "drawer_link_toggle": true,
+          "email": true,
+          "phone": true,
+          "show_social_medias": true,
+          "title": "Menu",
+          "drawer_top_link_list": "mobile-menu",
+          "drawer_bottom_link_list": "customer-service-mobil-menu"
+        }
+      },
+      "announcement": {
+        "type": "announcement",
+        "blocks": {
+          "announcement-0": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.dk\/\" title=\"https:\/\/www.anodyne.dk\/\"><strong>⚡️30% FLASH SALE⚡️<\/strong> Brug koden 'FLASH'<\/a><\/p>",
+              "announcement_counter": "Jan 31, 2021 23:59:59",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-0"
+        ],
+        "settings": {
+          "show_announcement": true,
+          "show_social": false,
+          "email": true,
+          "phone": true,
+          "left_message": "",
+          "right_message": "<p><a href=\"\/pages\/kontakt\" target=\"_blank\" title=\"\/pages\/kontakt\">Kontakt<\/a><\/p>",
+          "announcement_autoplayspeed": 5
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "main_menu_link_list": "main-menu",
+          "navigation_type": "right",
+          "header_font_size": 13,
+          "logo_link": true,
+          "default_logo": "shopify:\/\/shop_images\/Anodyne_black_medium_6728745e-a674-486e-8077-9faaf5a75715.png",
+          "mobile_logo": "shopify:\/\/shop_images\/Anodyne_black_medium_6728745e-a674-486e-8077-9faaf5a75715.png",
+          "default_logo_svg": "",
+          "inverted_logo_svg": "",
+          "mobile_logo_svg": "",
+          "logo_width": 150,
+          "logo_mobile_width": 150
+        }
+      },
+      "dbtfy-instagram-feed": {
+        "type": "dbtfy-instagram-feed",
+        "settings": {
+          "dbtfy_instagram_feed_icon": false,
+          "dbtfy_instagram_feed_access_token": "",
+          "dbtfy_instagram_feed_resolution": "low_resolution",
+          "dbtfy_instagram_feed_full_width": false,
+          "title": "From our Instagram",
+          "subtitle": "",
+          "dbtfy_instagram_feed_section_style": "section-border",
+          "dbtfy_instagram_feed_rows": "1",
+          "dbtfy_instagram_feed_desktop_grid": "6",
+          "dbtfy_instagram_feed_mobile_grid": "3"
+        }
+      },
+      "guarantee": {
+        "type": "guarantee",
+        "blocks": {
+          "guarantee-0": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Returns_200px.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>Gratis ombytning<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-1": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Truck_200px.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>Mulighed for gratis levering til pakkeshop<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-2": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Smile2_200px.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>Prøv frit i 30 dage<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "bb764f80-013b-4d19-89ae-5e332eb782cf": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/e-maerket.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>Vi er en <a href=\"https:\/\/certifikat.emaerket.dk\/anodyne.dk\" target=\"_blank\" title=\"https:\/\/certifikat.emaerket.dk\/anodyne.dk\">E-mærket<\/a> webshop<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "guarantee-0",
+          "guarantee-1",
+          "guarantee-2",
+          "bb764f80-013b-4d19-89ae-5e332eb782cf"
+        ],
+        "settings": {
+          "show_guarantee": true,
+          "guarantee_size": "lg",
+          "section_style": "section-default"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "column_width": 1,
+              "title": "Kategorier",
+              "subtitle": "",
+              "footer_link_list": "footer-categories"
+            }
+          },
+          "0bf661af-2d67-4ed7-9f1e-750e2c09c74e": {
+            "type": "link_list",
+            "settings": {
+              "column_width": 1,
+              "title": "Anodyne®",
+              "subtitle": "",
+              "footer_link_list": "anodyne-menu"
+            }
+          },
+          "045bae48-bfff-4e04-a080-14a99dbf2e0c": {
+            "type": "text",
+            "settings": {
+              "column_width": 1,
+              "svg": "",
+              "img_url": "",
+              "logo_width": 150,
+              "title": "Kontakt os",
+              "subtitle": "",
+              "text": "<p>Anodyne.dk<\/p><p><strong>Man-tors: <\/strong>10:00 - 16:00<br\/><strong>Fre: <\/strong>10:00 - 15:00<\/p>",
+              "email": true,
+              "phone": true
+            }
+          },
+          "38aab7d5-4020-4b5d-aa34-5f065cd7a210": {
+            "type": "html",
+            "settings": {
+              "column_width": 1,
+              "title": "Socials",
+              "subtitle": "",
+              "facebook_link": "https:\/\/www.facebook.com\/anodyne.dk",
+              "youtube_link": "https:\/\/www.youtube.com\/channel\/UCFLDlWEPVUrvsuNjVt6sXJg",
+              "insta_link": "https:\/\/www.instagram.com\/anodyne.dk"
+            }
+          }
+        },
+        "block_order": [
+          "footer-1",
+          "0bf661af-2d67-4ed7-9f1e-750e2c09c74e",
+          "045bae48-bfff-4e04-a080-14a99dbf2e0c",
+          "38aab7d5-4020-4b5d-aa34-5f065cd7a210"
+        ],
+        "settings": {
+          "show_social_media": false,
+          "social_title": "Follow-us on social media!",
+          "show_payment_icons": true,
+          "show_shopify_footer": false,
+          "show_debutify_footer": false,
+          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N - CVR: 37167053<br\/><em>(NB: Intet salg på adressen)<\/em><\/p><p><\/p>"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "blocks": {
+          "3c1ba0f4-31bf-4023-8ec5-df5daa908bb7": {
+            "type": "description",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Details"
+            }
+          },
+          "72f69c35-ef4e-4428-a23a-b0994d0d2632": {
+            "type": "reviews",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "dbtfy_product_tabs_review": true,
+              "dbtfy_product_tabs_icons": "v",
+              "dbtfy_product_tabs_title": "Reviews"
+            }
+          },
+          "cace2e1c-86d2-4ecc-ba91-65c6898cbd62": {
+            "type": "text",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Rich text",
+              "dbtfy_product_tabs_text": "<p>asdfasdfa<\/p>",
+              "dbtfy_product_tabs_html": "asdfasdf",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "mens-posture-shirt-zipper-sort",
+              "dbtfy_product_tabs_collection": ""
+            }
+          },
+          "f3ce1113-dc04-4af9-8f90-c4d8b5b4cca7": {
+            "type": "text",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Rich text",
+              "dbtfy_product_tabs_text": "",
+              "dbtfy_product_tabs_html": "wefsdfasdfasdfa",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "mens-posture-shirt-hvid",
+              "dbtfy_product_tabs_collection": ""
+            }
+          },
+          "9b2470fb-ace6-451d-a928-3e222f90efc9": {
+            "type": "text",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "wwwww",
+              "dbtfy_product_tabs_text": "<p>wewewewewewew<\/p>",
+              "dbtfy_product_tabs_html": "wesewewewewewewwewwewewwewewewewewewew",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "womens-posture-shirt-hvid",
+              "dbtfy_product_tabs_collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "3c1ba0f4-31bf-4023-8ec5-df5daa908bb7",
+          "72f69c35-ef4e-4428-a23a-b0994d0d2632",
+          "cace2e1c-86d2-4ecc-ba91-65c6898cbd62",
+          "f3ce1113-dc04-4af9-8f90-c4d8b5b4cca7",
+          "9b2470fb-ace6-451d-a928-3e222f90efc9"
+        ],
+        "settings": {
+          "dbtfy_product_tabs_position": "separate_section",
+          "show_product_vendor": false,
+          "show_product_type": true,
+          "show_product_sku": false,
+          "product_title_large": false,
+          "show_product_tags": true,
+          "show_sharing_icons": true,
+          "show_product_collections": true,
+          "enable_image_zoom": true,
+          "enable_video_looping": true,
+          "media_layout": "thumbnails",
+          "image_size": "medium",
+          "quantity_enabled": true,
+          "product_selector": "radio",
+          "show_product_description": true,
+          "enable_split_description": false,
+          "description_full": false,
+          "dbtfy_product_description_position": "separate_section",
+          "description_style": "section-border",
+          "text_alignment": "text-center",
+          "text_alignment_mobile": "small--text-center"
+        }
+      },
+      "dbtfy-upsell-bundles": {
+        "type": "dbtfy-upsell-bundles",
+        "settings": {
+          "dbtfy_upsell_bundles_title": "Frequently bought together",
+          "dbtfy_upsell_bundles_subtitle": "",
+          "dbtfy_upsell_bundles_total": "Total price:",
+          "dbtfy_upsell_bundles_cart": "Add selected items",
+          "dbtfy_upsell_bundles_icons": "library_add_check",
+          "dbtfy_upsell_bundles_current": "This item:",
+          "section_style": "section-border",
+          "dbtfy_upsell_bundles_reviews": false,
+          "dbtfy_upsell_bundles_limit": "2",
+          "dbtfy_upsell_bundles_position": "product"
+        }
+      },
+      "dbtfy-product-page-builder": {
+        "type": "dbtfy-product-page-builder",
+        "settings": {
+          "show_page_title": true
+        }
+      },
+      "product-row": {
+        "type": "product-row",
+        "settings": {
+          "show_product_row": true
+        }
+      },
+      "dbtfy-pricing-table": {
+        "type": "dbtfy-pricing-table",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "Pricing table",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "dbtfy_button_position": "middle"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "rows": "2",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "slider_related_products": true,
+          "arrows": true,
+          "dots": true,
+          "autoplay": false,
+          "autoplayspeed": 5
+        }
+      },
+      "dbtfy-faq-section": {
+        "type": "dbtfy-faq-section",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "FAQ",
+          "subtitle": "",
+          "section_style": "section-border",
+          "dbtfy_faq_searchbox": true,
+          "dbtfy_faq_search_placeholder": "Search questions...",
+          "dbtfy_faq_bannerbox": true,
+          "dbtfy_faq_banner_icon": "live_help",
+          "dbtfy_faq_banner_text": "Didn't find your answer?",
+          "dbtfy_faq_banner_subtitle": "Our customer service will be happy to help you.",
+          "dbtfy_faq_btn": "Get in Touch",
+          "dbtfy_faq_link": ""
+        }
+      },
+      "related-products": {
+        "type": "related-products",
+        "settings": {
+          "show_related_products": false,
+          "related_collection": true,
+          "same_vendor": false,
+          "same_type": false,
+          "never_empty": true,
+          "title": "You may also like",
+          "subtitle": "",
+          "section_style": "section-border",
+          "rows": "1",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "slider_related_products": true,
+          "arrows": true,
+          "dots": true,
+          "autoplay": false,
+          "autoplayspeed": 5
+        }
+      },
+      "quotes": {
+        "type": "quotes",
+        "settings": {
+          "show_on_desktop": false,
+          "show_on_mobile": false,
+          "title": "Testimonials",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "quote_width": "60",
+          "arrows": true,
+          "dots": true,
+          "autoplay": true,
+          "autoplayspeed": 5
+        }
+      },
+      "16300631015589eb65": {
+        "type": "video-background",
+        "settings": {
+          "page_width": "full_width",
+          "height": "medium",
+          "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
+          "show_overlay": true,
+          "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
+          "image_position": "center center",
+          "video_title": "<span class=\"first\">Velkommen<\/span>",
+          "text_size": "medium",
+          "text_description": "<p><strong>Få en bedre kropsholdning og reducér smerter med Anodyne®<\/strong><\/p>",
+          "text_description_size": "medium",
+          "button_label": "Mænd",
+          "button_link": "shopify:\/\/collections\/maend",
+          "second_button_label": "Kvinder",
+          "second_button_link": "shopify:\/\/collections\/kvinder",
+          "show_scrolldown": true
+        }
+      },
+      "1630063768bdfa2f5f": {
+        "type": "featured-services",
+        "blocks": {
+          "1630063768bdfa2f5f-0": {
+            "type": "service",
+            "settings": {
+              "title": "Hurtig levering",
+              "description": "Vi tilbyder også fri fragt til alle pakkeshops ved køb over 399 kr.",
+              "icon": "shopify:\/\/shop_images\/Truck_200px.png",
+              "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
+            }
+          },
+          "1630063768bdfa2f5f-1": {
+            "type": "service",
+            "settings": {
+              "title": "Gratis ombytning",
+              "description": "Passer dit produkt ikke? Det er nemt og 100% gratis at ombytte dine varer hos Anodyne®",
+              "icon": "shopify:\/\/shop_images\/Returns_200px.png",
+              "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
+            }
+          },
+          "66c69b66-4ba2-424e-a46c-68c81d83d5c4": {
+            "type": "service",
+            "settings": {
+              "title": "Danskernes foretrukne",
+              "description": "Flere end 100.000 glade, danske kunder kan ikke tage fejl... Vi har 4.8 ud af 5 på TrustPilot.",
+              "icon": "shopify:\/\/shop_images\/Smile2_200px.png",
+              "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
+            }
+          },
+          "3011a919-3be7-41c5-aa09-25734c19504d": {
+            "type": "service",
+            "settings": {
+              "title": "Prøv frit i 30 dage",
+              "description": "Du kan frit afprøve dit produkt, når du handler hos os. Vi bytter altid med et smil :)",
+              "icon": "shopify:\/\/shop_images\/Checkmark_200px.png",
+              "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
+            }
+          }
+        },
+        "block_order": [
+          "1630063768bdfa2f5f-0",
+          "1630063768bdfa2f5f-1",
+          "66c69b66-4ba2-424e-a46c-68c81d83d5c4",
+          "3011a919-3be7-41c5-aa09-25734c19504d"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "1630070175c6ebb320": {
+        "type": "featured-collections",
+        "blocks": {
+          "1630070175c6ebb320-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "posture-shirt",
+              "btn__shopnow": "shop"
+            }
+          },
+          "1630070175c6ebb320-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "rygstoette",
+              "btn__shopnow": "shop"
+            }
+          },
+          "1630070175c6ebb320-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "andre-produkter",
+              "btn__shopnow": "Shop"
+            }
+          }
+        },
+        "block_order": [
+          "1630070175c6ebb320-2",
+          "1630070175c6ebb320-1",
+          "1630070175c6ebb320-0"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "full_width": false,
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "section_height": "small",
+          "show_view_all": false,
+          "button_label": "View all",
+          "button_link": "shopify:\/\/collections",
+          "button_style": "btn--primary",
+          "slider_featured_collections": false,
+          "arrows": false,
+          "dots": false
+        }
+      },
+      "163032369225153039": {
+        "type": "mission",
+        "blocks": {
+          "b1098b0a-da6e-4795-8ddc-230d0010ed64": {
+            "type": "html",
+            "settings": {
+              "mission_title": "Hvorfor vælge holdningskorrigerende tøj fra Anodyne?",
+              "mission_description": "Med <u><a href=\"\/\">holdningskorrigerende tøj<\/a><\/u> fra Anodyne® kan du på en enkelt og ubesværet måde opnå en bedre kropsholdning og reducere smerter og spændinger i nakke, skuldre og ryg. Anodyne® <u><a href=\"\/collections\/alle-produkter\/\">holdningstøj til mænd og kvinder<\/a><\/u> hjælper dig til at øge din kropsholdningsbevidsthed og kan bruges både, når du sidder på kontoret, rejser, er aktiv på jobbet eller bruger det til træning. Anodyne® er europæisk producent og distributør af holdningskorrigerende tøj med teknologi udviklet af amerikanske AlignMed - verdens eneste producent af holdningskorrigerende tøj, der er registreret hos USA’s føderale fødevare- og lægemiddelmyndighed (FDA). Anodyne® holdningskorrigerende tøj er som det eneste i Europa både FDA-registreret og MDR\/CE-mærket som medicinsk udstyr (Klasse I), hvilket er din garanti for, at vores produkter lever op til de krav, der stilles for medicinsk udstyr. Vi sælger også også en række forskellige <u><a href=\"\/collections\/rygstoette\">produkter til rygstøtte<\/a><\/u>, både i form af holdningsveste, <u><a href=\"\/collections\/skulderstoette\">skulderstøtter<\/a><\/u>, ergonomiske puder mm.",
+              "column_width": 12,
+              "column_width_mobile": 12,
+              "text_alignment": "text-center",
+              "btn_text": "",
+              "btn_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "b1098b0a-da6e-4795-8ddc-230d0010ed64"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "margin__bottom": 0,
+          "section_style": "section-blank",
+          "wrapper_size": "-small"
+        }
+      },
+      "163032806406e9f003": {
+        "type": "quotes",
+        "blocks": {
+          "163032806406e9f003-0": {
+            "type": "quote",
+            "settings": {
+              "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
+              "icon": "format_quote",
+              "quote": "<p><em>Kan kun anbefale deres produkter til alle der har smerter i skulderen. Stor hjælp i en hård hverdag med smerter.<\/em><br\/><\/p>",
+              "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
+              "quotes_link": "https:\/\/dk.trustpilot.com\/review\/www.anodyne.dk?stars=5",
+              "author": "Pernille J"
+            }
+          },
+          "163032806406e9f003-1": {
+            "type": "quote",
+            "settings": {
+              "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
+              "icon": "format_quote",
+              "quote": "<p><em>Hurtig levering og fantastisk kvalitet. Jeg har købt tre T-shirts over to gange. Kan kun anbefale!<\/em><\/p>",
+              "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
+              "quotes_link": "https:\/\/dk.trustpilot.com\/review\/www.anodyne.dk?stars=5",
+              "author": "Steen J."
+            }
+          },
+          "163032806406e9f003-2": {
+            "type": "quote",
+            "settings": {
+              "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
+              "icon": "format_quote",
+              "quote": "<p><em>Super gode produkter, der holder hvad de lover. God størrelsesvejledning og  god service.<br\/>            <\/em><\/p>",
+              "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
+              "quotes_link": "https:\/\/dk.trustpilot.com\/review\/www.anodyne.dk?stars=5",
+              "author": "Ida F.J."
+            }
+          }
+        },
+        "block_order": [
+          "163032806406e9f003-0",
+          "163032806406e9f003-1",
+          "163032806406e9f003-2"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "trustpilot_imagetitle": "shopify:\/\/shop_images\/Trustpilot_logo.png",
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "quote_width": "60",
+          "arrows": true,
+          "dots": true,
+          "autoplay": true,
+          "autoplayspeed": 7
+        }
+      },
+      "1630331223d20499c6": {
+        "type": "featured-products",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "Mest populære produkter",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "home_featured_products": "alle-produkter",
+          "rows": "1",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "show_view_all": true,
+          "button_label": "Se flere produkter",
+          "button_link": "shopify:\/\/collections\/alle-produkter",
+          "button_style": "btn--primary",
+          "slider_related_products": false,
+          "arrows": false,
+          "dots": false,
+          "autoplay": false,
+          "autoplayspeed": 5
+        }
+      },
+      "163039383589cd0ef5": {
+        "type": "featured-columns",
+        "blocks": {
+          "163039383589cd0ef5-0": {
+            "type": "text_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Checkmark_200px.png",
+              "icon": "",
+              "title": "Det originale holdningskorrigerende tøj",
+              "text": "<p>Det originale Anodyne® holdningskorrigerende tøj til mænd og kvinder kan kun købes her på <a href=\"https:\/\/www.anodyne.dk\/\">www.anodyne.dk<\/a> eller hos en af vores godkendte forhandlere. Vær opmærksom på, at der findes mange falske og underlødige produkter på markedet. Kun en slags holdningskorrigerende tøj er både FDA-registreret og MDR\/CE-mærket som medicinsk udstyr samt findes på listen over godkendte hjælpemidler i Danmark; det er produkterne fra Anodyne® - så vær særligt opmærksom, når du handler på nettet. Hos Anodyne® kan du også købe produkter inden for rygstøtte, der kan hjælpe dig med at støtte din ryg i det daglige.<\/p>",
+              "button_style": "btn--primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "163039383589cd0ef5-1": {
+            "type": "text_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Smile2_200px.png",
+              "icon": "",
+              "title": "Holdningskorrigerende tøj med 100% tilfredshedsgaranti",
+              "text": "<p>Hos Anodyne® tilbyder vi altid 100% tilfredshedsgaranti, 30 dages fuld returret og gratis retur og ombytning. Det betyder, at du inden for 30 dage frit kan teste og afprøve dit produkt, og finde ud af om det lever op til dine forventninger. Det er let og enkelt at returnere eller bytte hos os og det er vores mål, at du skal være 100% tilfreds - ligesom det har været vores mål for de flere end 100.000 andre danskere, som allerede har købt et originalt Anodyne® produkt i løbet af de sidste 7 år. <\/p>",
+              "button_style": "btn--primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "163039383589cd0ef5-2": {
+            "type": "text_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Kinesio2_copy_200px.png",
+              "icon": "",
+              "title": "Fra kinesiotape til holdningskorrigerende tøj",
+              "text": "<p>Hos Anodyne® forhandler vi den originale <a href=\"\/collections\/posture-shirt\" title=\"Posture Shirt™\"><span style=\"text-decoration:underline\">holdningskorrigerende Posture Shirt™<\/span><\/a>. T-shirtens design benytter den unikke og patenterede NeuroBand™-teknologi, der er baseret på dybdegående videnskabelig forskning i menneskelig fysiologi og designet til at spejle muskulaturens sammentrækkende og eftergivende egenskaber for at fremme en bedre kropsholdning. Teknologien er inspireret af kinesiotape – en behandlingsform der ofte anvendes af danske fysioterapeuter og kiropraktorer til at behandle smerter og spændinger i nakke, skuldre og ryg. Kinesiotaping bruges også hyppigt af professionelle atleter til at stimulere specifikke muskelgrupper og forbedre kropsholdningen.<\/p><p><\/p><p><\/p>",
+              "button_style": "btn--primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "163039383589cd0ef5-0",
+          "163039383589cd0ef5-1",
+          "163039383589cd0ef5-2"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-default",
+          "text_align": ""
+        }
+      },
+      "1630404145a76c9e4d": {
+        "type": "featured-video",
+        "blocks": {
+          "1630404145a76c9e4d-0": {
+            "type": "video",
+            "settings": {
+              "video_cover_image": "shopify:\/\/shop_images\/Thumbnail_Anodyne-min-min.jpg",
+              "video_url": "https:\/\/www.youtube.com\/watch?v=c3tAK7gGKbo",
+              "animated_button": true
+            }
+          }
+        },
+        "block_order": [
+          "1630404145a76c9e4d-0"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "full_width": false,
+          "title": "Hvem er Anodyne?",
+          "subtitle": "Se vores præsentationsvideo",
+          "section_style": "section-default"
+        }
+      },
+      "1630409395746d29de": {
+        "type": "featured-accordions",
+        "blocks": {
+          "1630409395746d29de-0": {
+            "type": "Accordion",
+            "settings": {
+              "accordion_title": "Patenteret NeuroBand™-teknologi i Anodyne® holdningskorrigerende tøj",
+              "accordion__inner-title": "",
+              "accordion__description": "Anodyne® holdningskorrigerende tøj til kvinder og mænd er fremstillet af en unik sammensætning af spandex, polyester og nylon, som giver slidstærke og åndbare produkter, der bevarer elasticitet ved brug og gør tøjet behageligt at have på. Designet benytter den patenterede NeuroBand™-teknologi, der er inspireret af kinesiotape, og baseret på forskning i menneskets fysiologi. Tøjet er designet til at spejle muskulaturens sammentrækkende og eftergivende egenskaber og dermed fremme den rette kropsholdning.",
+              "accordion__buttontext": "Køb posture shirt her",
+              "accordion__LinkUrl": "shopify:\/\/collections\/posture-shirt"
+            }
+          },
+          "1630409395746d29de-1": {
+            "type": "Accordion",
+            "settings": {
+              "accordion_title": "Holdningskorrigerende tøj til dit behov",
+              "accordion__inner-title": "",
+              "accordion__description": "Holdningskorrigerende tøj fra Anodyne® kan anvendes af alle. Vi forhandler holdningskorrigerende t-shirts, BH’er og veste, der alle er udviklet til at hjælpe med at aktivere muskulaturen og blodcirkulationen, og derved minde kroppen om at indtage en mere optimal holdning. Anodyne® holdningskorrigerende t-shirts og BH’er kan anvendes når som helst - når du træner, handler ind, går tur, gør rent eller ved andre aktiviteter. For at få mest ud af Anodyne® holdningskorrigerende tøj, anbefaler vi, at du læser den medsendte brugsvejledning grundigt, så du har de helt rette forudsætninger for at nå den optimale effekt af vores produkter.",
+              "accordion__buttontext": "Se udvalg af holdningstøj",
+              "accordion__LinkUrl": "shopify:\/\/collections\/alle-produkter"
+            }
+          },
+          "f87df513-1488-4240-a91d-ed8f2bb41077": {
+            "type": "Accordion",
+            "settings": {
+              "accordion_title": "Også til dig med skader",
+              "accordion__inner-title": "",
+              "accordion__description": "Døjer du med en skade, eller har du eks. en diskusprolaps, scoliose, gigt eller lignende, kan du med fordel anvende holdningskorrigerende tøj, men er du endnu ikke udredt, anbefaler vi, at du konsulterer en fagprofessionel. I nogle tilfælde vil Anodyne® holdningskorrigerende veste (MyLign og SpinalQ Pro) være at foretrække, da de har den kraftigste støttefunktion. Det er desuden vigtigt, at du vælger holdningskorrigerende tøj i den rigtige størrelse, da du ellers ikke opnår den optimale effekt. Husk derfor at tjekke størrelsesguiden omhyggeligt. Du er også velkommen til at kontakte vores kundeservice, der gerne hjælper med at svare på spørgsmål om vores produkter, samt at finde din rette størrelse.",
+              "accordion__buttontext": "Se produktudvalg",
+              "accordion__LinkUrl": "shopify:\/\/collections\/rygstoette"
+            }
+          },
+          "225005a5-c60f-4ff1-be6b-7f7256b16ac7": {
+            "type": "Accordion",
+            "disabled": true,
+            "settings": {
+              "accordion_title": "Blessures",
+              "accordion__inner-title": "Ook voor jou, als je blessures hebt",
+              "accordion__description": "Als je te maken hebt met een blessure of als je bijvoorbeeld een hernia, scoliose,artritis of iets dergelijks hebt, kun je onze houdingcorrigerende kleding prima gebruiken. Als het letsel nieuw is, raden we je aan dit eerst te bespreken met bijvoorbeeld je arts, fysiotherapeut of chiropractor. In sommige gevallen kan het houdingcorrigerende vest (MyLign of SpinalQ Pro) het beste zijn, omdat dat het meeste steun biedt. Het is belangrijk dat je de juiste maat houdingcorrigerende kleding bestelt, anders bereik je niet het optimale effect. Het beste is om naar de matentabel op onze productpagina's te kijken en bij twijfel contact op te nemen met onze klantenservice. Zij beantwoorden graag je vragen over onze producten en helpen je om de juiste maat te vinden.",
+              "accordion__buttontext": "",
+              "accordion__LinkUrl": ""
+            }
+          }
+        },
+        "block_order": [
+          "1630409395746d29de-0",
+          "1630409395746d29de-1",
+          "f87df513-1488-4240-a91d-ed8f2bb41077",
+          "225005a5-c60f-4ff1-be6b-7f7256b16ac7"
+        ],
+        "settings": {
+          "title": "Smertelindring med holdningstøj",
+          "section_style": "section-blank"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "collection_tags_enable": false,
+          "collection_tags_count": false,
+          "collection_multiple_tags_filtering_enable": false,
+          "collection_sort_enable": false,
+          "tag_selector": "button",
+          "rows": "4",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "collection_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_DK.jpg",
+          "collection_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_DK.jpg"
+        }
+      },
+      "dbtfy-collection-filters": {
+        "type": "dbtfy-collection-filters",
+        "settings": {
+          "clear_label": "Clear",
+          "clear_all_label": "Clear All",
+          "hide_unavailable_options": false,
+          "show_tags_count": true,
+          "visibility_tags_count": "all"
+        }
+      },
+      "product-tabs-template": {
+        "type": "product-tabs-template",
+        "settings": {
+          "dbtfy_product_tabs_position": "under_description",
+          "show_product_vendor": false,
+          "show_product_type": false,
+          "show_product_sku": false,
+          "product_title_large": false,
+          "show_product_tags": false,
+          "show_sharing_icons": true,
+          "product_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_DK_96e4660b-ffe6-437f-9cb1-fff2cfb8e386.jpg",
+          "product_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_DK_4fbc6ab5-a7fe-4aa6-b52a-71cbb232b76f.jpg",
+          "show_product_collections": false,
+          "enable_image_zoom": true,
+          "enable_video_looping": true,
+          "media_layout": "thumbnails",
+          "image_size": "medium",
+          "quantity_enabled": true,
+          "product_selector": "radio",
+          "show_product_description": false,
+          "show_product_description_in_tabs": true,
+          "enable_split_description": false,
+          "description_full": false,
+          "dbtfy_product_description_position": "separate_section",
+          "description_style": "section-border",
+          "text_alignment": "text-center",
+          "text_alignment_mobile": "small--text-center"
+        }
+      },
+      "product-cards": {
+        "type": "product-cards",
+        "blocks": {
+          "fe32e93f-234c-450d-8d07-e2efbc25f40e": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Customerservice_copy_200px.png",
+              "title": "Kundeservice",
+              "text": "<p>Kontakt os på <a href=\"tel:5389 0017\"><span style=\"text-decoration:underline\">+45 5389 0017<\/span><\/a> eller <a href=\"mailto:info@anodyne.dk\"><span style=\"text-decoration:underline\">info@anodyne.dk<\/span><\/a>, hvis du har spørgsmål til størrelser, pris eller andet.<br\/><br\/>Tøv ikke med at tage kontakt til os. Vi sidder klar til at hjælpe dig.<\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          },
+          "86e60ed0-4f89-453b-bb6d-998997ba5497": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Returns_200px.png",
+              "title": "Prøv frit i 30 dage",
+              "text": "<p>Hos Anodyne® er det vores mål at du bliver glad for dit produkt. Det indebærer blandt andet, at du har en 30-dages prøveperiode, hvor du frit kan teste og afprøve dit produkt. Du kan gratis ombytte din vare til en anden størrelse eller produkt.<\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          },
+          "cb8805d6-2cd1-4b82-aa5e-bcd50bd85ebc": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Smile2_200px.png",
+              "title": "Danskernes foretrukne",
+              "text": "<p>Flere end 100.000 danskere har allerede handlet hos Anodyne.dk i de seneste 7 år. Vi er danskernes foretrukne valg, når det kommer til holdningskorrigerende tøj og ergomomisk tilbehør, hvilket vi er meget stolte af!<\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          },
+          "1c9774d2-047f-45d4-8645-84edb4bf51cd": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/e-maerket.png",
+              "title": "e-mærket webshop",
+              "text": "<p>Vi er en e-mærket webshop, som er din garanti for sikker handel hos Anodyne®. E-mærket sikrer dig en tryg og gennemskulig handel, når du handler online, og dit køb er dækket med op til 10.000 kr. pr. handel. <\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          }
+        },
+        "block_order": [
+          "fe32e93f-234c-450d-8d07-e2efbc25f40e",
+          "86e60ed0-4f89-453b-bb6d-998997ba5497",
+          "cb8805d6-2cd1-4b82-aa5e-bcd50bd85ebc",
+          "1c9774d2-047f-45d4-8645-84edb4bf51cd"
+        ],
+        "settings": {
+          "show_product_card": true
+        }
+      },
+      "16334458477be6bcd8": {
+        "type": "newsletter",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "",
+          "subtitle": "Tilmeld dig vores nyhedsbrev og modtag løbende e-mails med nye produkter,  aktuelle tilbud og konkurrencer.",
+          "section_style": "section-default"
+        }
+      },
+      "dbtfy-faq-page": {
+        "type": "dbtfy-faq-page",
+        "blocks": {
+          "21170241-e223-4c47-bc79-e2ee2878272e": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Produkter",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "98f5a103-7050-4f71-9ceb-d51064a0571c": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvad er holdningskorrigerende tøj fra Anodyne®, og hvordan fungerer det?",
+              "text": "<p>Holdningskorrigerende tøj fra Anodyne® er designet til at stimulere specifikke muskelgrupper og forbedre kropsholdningen. Anodyne Posture Shirt™ og Anodyne BH bidrager til skabelsen af en konstant strøm af information, der løber frem og tilbage mellem 20.000 til 80.000 nervereceptorer i huden. Resultatet er, at musklerne stimuleres af hjernen til at blive aktive, så du selv forbedrer din holdning ved at styrke dine muskler. For at maksimere effekten anbefaler vi, at du så vidt muligt også er fysisk aktiv.<\/p>"
+            }
+          },
+          "51d055bd-7606-4a10-8020-661e7baaf994": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvad er forskellen mellem Anodyne holdningskorrigerende tøj og vores konkurrenter?",
+              "text": "<p>Anodyne® er eksklusiv europæisk distributør af holdningskorrigerende tøj med teknologi udviklet af amerikanske AlignMed, verdens eneste producent af holdningskorrigerende tøj registreret hos FDA, USA's føderale fødevare- og lægemiddelmyndighed. AlignMed har udviklet og benytter teknologien NeuroBands i deres produkter.<br\/><\/p><p>Det holdningskorrigerende tøj du finder hos Anodyne er MDR\/CE-mærket og registreret som medicinsk udstyr. Dette sikrer, at EU-lovgivningen for medicinsk udstyr og kravene til miljø, sundhed og sikkerhed er overholdt. MDR\/CE-mærket er således din garanti for, at vores produkter lever op til de krav, der stilles for medicinsk udstyr.<\/p><p>Når man ønsker at sammenligne holdningskorrigerende tøj med konkurrenternes produkter, er det centralt at kigge efter disse registreringer. Hvis de ikke har dem, er der normalt ingen dokumenteret effekt af tøjet. Kun en slags holdningskorrigerende tøj er registreret som medicinsk udstyr og findes på <a href=\"https:\/\/hmi-basen.dk\/r4x.asp?linktype=isosup&linkinfo=06030701&sup=58256\" target=\"_blank\" title=\"https:\/\/hmi-basen.dk\/r4x.asp?linktype=isosup&linkinfo=06030701&sup=58256\">listen over godkendte hjælpemidler i Danmark<\/a>; det er produkterne fra Anodyne® - så vær særligt opmærksom, når du handler på nettet.<\/p>"
+            }
+          },
+          "b3cb421f-11d4-472c-95a9-a2a96bd8c1b4": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvad er forskellen mellem Anodyne Posture Shirt™ og Anodyne BH?",
+              "text": "<p>Generelt kan du forvente at føle mest støtte fra Anodyne Posture Shirt™, fordi den består af flest NeuroBands - en unik og patenteret teknologi, der indgår i Anodynes holdningskorrigerende tøj. Mange kvinder vil dog også opleve, at de med Anodyne BH får nok støtte til, at de kan opnå den holdningsbevidsthed, der er nødvendig for at forbedre holdningen.<br\/><\/p><p>Hvis du er i tvivl, kan du altid prøve begge produkter og drage fordel af vores 30-dages prøveperiode, der giver dig mulighed for at returnere ethvert produkt, du ikke ønsker at beholde.<\/p>"
+            }
+          },
+          "fff8ad10-293f-4a80-9dfd-49bae841f95b": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvordan ser jeg forbedring i min holdning?",
+              "text": "<p>Når du har den rigtige størrelse, vil du inden for kort tid føle og se en forskel i din kropsholdning, når du bærer en Posture Shirt™ eller en Anodyne BH. Din krop har brug for tid til at øge bevidstheden om at indtage en bedre kropsholdning. Når du bærer din Posture Shirt™ aktiverer du kontinuerligt dine muskler, så effekten også ses, når du på sigt ikke bærer din Posture Shirt™.<br\/><\/p><p>Ved at bære holdningskorrigerende tøj under dine normale hverdagsaktiviteter - såsom at gå, arbejde, træne og løbe - styrkes muskelhukommelsen. De bevægelser, du oftest udfører på en normal dag, har den største indflydelse på, hvor hurtigt muskelhukommelsen ændres. Afhængigt af hvordan og hvor ofte du bruger din Posture Shirt™ eller Anodyne BH, vil du bemærke de fysiske ændringer optimalt efter at have båret den i cirka 60-90 dage. Men hvis produktet fungerer for dig, vil du vide det inden for din 30-dages prøveperiode.<\/p>"
+            }
+          },
+          "93093c45-1166-4eb5-99da-f580e03c0459": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Vil jeg opleve færre smerter og\/eller vil det forbedre min kropsholdning?",
+              "text": "<p>Der er stor sandsynlighed for, at du vil føle færre rygsmerter, skuldersmerter og nakkesmerter ved at anvende holdningskorrigerende tøj fra Anodyne. Langt de fleste mennesker, der bruger vores Posture Shirt™ eller Anodyne BH vil forbedre deres holdning. Hvorvidt dette også gælder for dig, kan vi ikke garantere. Derfor giver vi dig 30 dage til at prøve det selv.<br\/><\/p><p>For at øge dine chancer for en succesrig oplevelse anbefaler vi, at du giver produktet en chance. Hvis du f.eks. har haft rygsmerter gennem mange år, skal du ikke forvente, at disse forsvinder efter at have båret din Posture Shirt™ i nogle timer. Udnyt din 30-dages prøveperiode og forpligt dig til den. Bær gerne din Posture Shirt hver dag den første uge, start med 1-2 timer og øg herefter brugen til 2-4 timer. Efter den første uge anbefaler vi, at du bærer den i 8-10 timer 3-4 gange om ugen. Hvordan har du det så efter 4 uger? Du vil højst sandsynligt føle en reduktion af din smerte og en forbedring af din holdning. Hvis ikke, er du velkommen til at returnere dit produkt mod fuld refusion.<\/p><p>Tøv ikke med at tage kontakt til vores kundeservice. Vores mål er, at du bliver fuldt ud tilfreds med vores produkt og service.<\/p>"
+            }
+          },
+          "537d2df8-4438-411b-94f8-22a1c0f58067": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvor længe holder mit Anodyne® produkt?",
+              "text": "<p>Levetiden på dit Anodyne® produkt afhænger af, hvordan du plejer det, og hvor ofte og hvor længe du bærer det. Som alt andet tøj, viser dette tøj også tegn på slid, afhængigt af hvor ofte du bærer det.<br\/><\/p><p>Det er vigtigt, at du følger plejevejledningen. Vi anbefaler håndvask, men det kan også vaskes i maskine, dog ikke over 30 grader. Brug ikke skyllemiddel, da det kan ødelægge den antimikrobielle behandling, der medvirker til at gøre t-shirten svedtransporterende. Brug ikke tørretumbler.<\/p><p>Hvis du passer på produktet i henhold til plejeinstruktionerne, vil produktet uden problemer kunne holde mellem 6 måneder og 2 år, alt efter hvor ofte du bruger det.<\/p>"
+            }
+          },
+          "c564418c-9354-4e58-a39a-0eb8c44ea728": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Størrelsesguide",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "7661c859-d1d1-46cb-971f-821b1ccccf03": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvilken størrelse skal jeg vælge?",
+              "text": "<p>At have den rigtige størrelse er afgørende for at opleve fordelene ved vores Posture Shirt™ og Anodyne BH. Se venligst størrelsesguiderne for at være sikker. Produktet er designet til at skulle slutte sig tæt til kroppen - særligt ved skuldrene. Ligger du og balancerer imellem to størrelser, skal du ofte vælge den mindste. Oftest skal man én til to størrelser ned. Hvis du er i tvivl, så tøv ikke med at kontakte os – vi hjælper gerne med at vurdere hvilken størrelse, du skal vælge.<\/p>"
+            }
+          },
+          "160931be-08d2-42b1-9b3f-04f4c35f2bf9": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvordan kan jeg se, om jeg har den rigtige størrelse?",
+              "text": "<p>For at opnå den rigtige effekt af Anodyne Posture Shirt™ skal den sidde tæt til din krop. Den bør sidde stramt, men ikke være ukomfortabel. For at afgøre, om du har den rigtige størrelse, kan du se på de fem NeuroBands der er inkorporeret i tøjet; de må ikke sidde løs.<br\/><br\/>Hvis din t-shirt sidder for løst, anbefaler vi dig at ombytte den til en størrelse mindre. Tøv ikke med at tage kontakt til os, hvis du er i tvivl om størrelsen - vi hjælper gerne med at vurdere hvilken størrelse, du skal vælge.<\/p>"
+            }
+          },
+          "bfe856a3-ef15-4b4b-873f-92b652251152": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Min Posture Shirt™ \/ Anodyne BH er (meget) stram, er den for lille?",
+              "text": "<p>Anodyne holdningskorrigerende tøj fra skal sidde tæt til kroppen for at have den ønskede effekt. Men det skal ikke føles ubehageligt. Hvis du ikke har mulighed for at bevæge dig frit, når du har din Posture Shirt™ eller Anodyne BH på er den muligvis for lille. Det bedste er at kontakte vores kundeservice, så vi kan hjælpe dig med at finde din rigtige størrelse. Hvis du kan tage et brystmål inden du ringer, har vi nemmere ved at vejlede dig. Du kan også sende et foto bagfra, der viser dig iført din Posture Shirt eller Anodyne BH, så vi kan se, hvordan produktet sidder på dig.<\/p>"
+            }
+          },
+          "a585ce43-5f0e-4e75-8428-2bf1d3baabf5": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Brug",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "e839b793-e06a-421a-b77e-53033c156439": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvordan tager jeg min Posture Shirt™ af og på?",
+              "text": "<p>At tage en stramtsiddende Posture Shirt™ af og på er anderledes end at tage en almindelig løstsiddende t-shirt af og på. Derfor har vi lavet en video der viser, hvordan man bedst tager din Posture Shirt™ af og på. Den finder du ved at <a href=\"https:\/\/youtu.be\/ukx1x-0QDK8 \" target=\"_blank\" title=\"https:\/\/youtu.be\/ukx1x-0QDK8 \">klikke her<\/a><br\/><br\/>Tip: Hvis du planlægger at bære din Posture Shirt™ under træning, anbefaler vi modellen med lynlås, da det kan være vanskeligt at tage t-shirten af, hvis du sveder. Hvis du foretrækker at anvende den almindelige Posture Shirt™ til træning er det nemmest at få den af ved at rulle den så højt op, som du kan og derefter trække trøjen over hovedet med én hånd.<\/p>"
+            }
+          },
+          "83b8055a-b308-46f8-8672-8f83bd45791f": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvornår bør jeg bruge mit holdningskorrigerende tøj fra Anodyne®?",
+              "text": "<p>Når som helst! Når du træner, handler ind, går tur, rejser, gør rent, arbejder eller ved andre aktiviteter. Til folk med fysiske problematikker, kan trøjen give mere fokus på kropsholdningen under aktiviteter og dermed hjælpe til at aflaste det udsatte område.<br\/><\/p><p>Vi anbefaler, at du starter langsomt op - begynd evt. med at bære din Posture Shirt™ i 1-2 timer om dagen den første uge. Prøv så vidt muligt at bruge det på tidspunkter, hvor du har mest brug for støtte - hvad end det er, når du sidder stille eller er aktiv. Efter en uge kan du bære din Posture Shirt™ i 8-10 timer alt afhængig af, hvor længe den føles behagelig. Tip! Bær dit holdningskorrigerende tøj under sportsaktiviteter, hvis du ofte har en dårlig holdning under dine øvelser.<\/p>"
+            }
+          },
+          "3306bdee-e3a8-4724-bae1-6283c801630b": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Er der nogen, der ikke bør benytte produkterne?",
+              "text": "<p>Vi er stolte af at vores Posture Shirt™ er MDR\/CE-mærket som medicinsk udstyr. Det betyder, at vores produkter lever op til de krav, der stilles for medicinsk udstyr. På den måde er du som kunde garanteret, at EU-lovgivningen for medicinsk udstyr og kravene til miljø, sundhed og sikkerhed er overholdt.<br\/><\/p><p>Folk med svære sygdomstilstande eller fysiologiske begrænsninger bør konsultere en fysioterapeut inden brug af tøjet. Er man ligeledes nyligt opereret, bør man snakke med en læge eller fysioterapeut om, hvorvidt det er for tidligt at begynde og arbejde med kropsholdningen. Vi anbefaler heller ikke, at børn og unge under 17 år bruger produkterne. Hvis din specialist ikke kender til vores produkt, er han\/hun mere end velkommen til at kontakte os for at lære mere.<\/p><p>I tilfælde af mobilitetsproblemer omkring skuldrene anbefaler vi at vælge Posture Shirt™ med lynlås, fordi den er noget lettere at få af og på.<\/p>"
+            }
+          },
+          "9ce299d6-a528-47b4-8f65-725d158f776b": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvor lang tid ad gangen bør jeg bruge tøjet?",
+              "text": "<p>Der er ikke et absolut svar på dette spørgsmål. Det hele afhænger af dit udgangspunkt. Er du allerede meget aktiv, har du for nylig gennemgået en operation osv.?<br\/><\/p><p>Generelt anbefaler vi, at du bruger din Posture Shirt™ i op til to timer dagligt den første uge. Herefter kan du gradvist øge brugen. Hvis du oplever træthed inden for de første par timer, så tag den af og prøv igen dagen efter. Mærk efter, og tag det i det tempo, der fungerer bedst for dig. For nogle fungerer det godt at starte med en halv time, mens andre kan bære det i to timer fra dag ét. Eftersom du aktiverer ellers inaktive muskler, kan du opleve ømhed den første uge. Men tænk på det, som noget godt - det betyder blot, at dine muskler fungerer. Denne gradvise tilvænning tillader en glidende og blid overgang til at vedligeholde en optimal kropsholdning i længere og længere tid ad gangen.<br\/><\/p><p>Når du begynder at bruge din Posture Shirt™ i længere perioder ad gangen, bygger du hurtigt muskelhukommelse op, hvilket betyder, at du gradvist justerer din kropsholdning - selv når du ikke har din Posture Shirt™ på. Når du oplever dette, kan du reducere brugen af din Posture Shirt™ til 3-4 gange om ugen.<\/p><p>Nedenfor har vi lavet en plan for den typiske indledende brug af din Posture Shirt™:<\/p><p><strong>Uge 1:<\/strong><\/p><p>Dag 1-3: Bær den i 1-2 timer (hvis du ikke føler nogen ømhed efter dag 1, kan du fordoble den tid, du har den på).<\/p><p>Dag 4-7: Bær den i 2 timer dagligt (hvis du ikke føler nogen ømhed, kan du fordoble den tid, du har den på) .<\/p><p>Dag 8 og fremefter: Bær den gerne i 8-10 timer om dagen, 3-4 gange om ugen. Hvis du føler dig øm og træt i dine muskler, kan du reducere timerne og langsomt bygge op igen.<\/p><p>Hvis du er i tvivl om, hvad der er bedst for dig, så tøv ikke med at kontakte os - vi vil med glæde rådgive dig.<\/p>"
+            }
+          },
+          "24c9069e-5591-42a4-b0b1-1ba393faa10a": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvordan passer jeg bedst på mine Anodyne®-produkter?",
+              "text": "<p>Posture Shirt™, AlignMe InterActive Bra samt leggings må maskinvaskes ved maksimalt 30 grader, men for at opnå længst mulig levetid på produkterne, anbefaler vi, at du håndvasker dem. Brug ALDRIG skyllemiddel, da dette ødelægger den behandling, der er med til at gøre produkterne svedtransporterende. Brug ALDRIG tørretumbler, da det ødelægger tøjet. SpinalQ Pro og MyLign Pro må kun vaskes i hånden og lufttørres. Produkterne tørrer heldigvis hurtigt, når de hænger frit natten over.<\/p>"
+            }
+          },
+          "535bddc1-f4fb-45da-8f9c-4d7b3d9a375f": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Levering",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "ccfa0081-2993-4cad-986e-299ad2711d18": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Jeg har endnu ikke modtaget min pakke, hvad skal jeg gøre?",
+              "text": "<p>Hvis der er gået tre arbejdsdage siden du modtog bekræftelsen på, at din ordre er sendt, og du stadig ikke har modtaget den, bedes du kontakte os, så vi kan tracke din pakke. I mange tilfælde ligger din pakke klar på det lokale posthus, men du er muligvis ikke blevet informeret herom. I tilfælde af, at din pakke ikke er til at finde i fragtfirmaets system, sender vi naturligvis din ordre på ny med det samme.<\/p>"
+            }
+          },
+          "e0aad449-d74c-445d-98ee-e08f97e98fa3": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvor lang tid tager levering?",
+              "text": "<p>Vi sigter mod at sende samme dag, hvis du bestiller inden kl. 14 på hverdage. I meget travle perioder sender vi muligvis først den følgende hverdag. Vores normale leveringstid fra bestilling til levering er 1-3 hverdage (man-fre). Bemærk, at vi ikke sender i weekender.<\/p>"
+            }
+          },
+          "de205e96-066f-4c7f-a04c-351b8dc03979": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Bestilling & Betaling",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "3809a5e7-7c91-41f7-912f-ae2ee8f7b5cd": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvilke betalingsmuligheder tilbyder I?",
+              "text": "<p>Du kan betale med kreditkort, ViaBill, Mobilepay, Klarna og PayPal. Det er desværre ikke muligt at betale via telefonopkald eller med check.<\/p>"
+            }
+          },
+          "c8ab5243-02cf-41ef-9c2c-eeb2eb967467": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvad er Klarna, og hvordan fungerer en betaling via denne mulighed?",
+              "text": "<p>Med Klarna kan du betale for din ordre 30 dage efter levering. Dette betyder, at du kan have produktet i hånden, inden du tager en beslutning om, hvorvidt du vil købe det.<br\/><\/p><p>Du modtager en påmindelse to dage før din betaling forfalder, og du modtager også e-mail-påmindelser, så det er vigtigt, at du indtaster dit telefonnummer og din e-mail korrekt.<\/p><p><\/p>"
+            }
+          },
+          "f42ad615-c53e-4120-b521-7297d2d23cb0": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Kan jeg ændre min ordre?",
+              "text": "<p>Hvis din ordre endnu ikke er afsendt, kan vi sagtens lave ændringer for dig. Kontakt os hurtigst muligt på telefon 5389 0017 eller send en mail til info@anodyne.dk, så ser vi, om din pakke stadig er hos os.<\/p>"
+            }
+          },
+          "27452e2c-2dd6-4e78-9f00-9ef214e95f51": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Jeg har lagt en ordre. Kan jeg annullere den?",
+              "text": "<p>Hvis din ordre endnu ikke er sendt, kan du kontakte vores kundeservice, så vi kan annullere din ordre. Hvis din pakke allerede er sendt, kan du returnere den. Så snart vi får pakken retur, behandler vi refusionen.<\/p>"
+            }
+          },
+          "a8e91025-c107-42fd-97f6-bdeb9dc84ad2": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Jeg har modtaget det forkerte produkt. Hvad skal jeg gøre?",
+              "text": "<p>Hos Anodyne pakker vi hundredetusindevis af produkter om året. I forbindelse hermed kan der desværre ske fejl, som resulterer i, at du modtager det forkerte produkt. Det er vi naturligvis meget ked af. Hvis du er en af de uheldige som dette er sket for, skal du bruge den forudbetalte returlabel i din pakke og returnere produktet sammen med returformularen, hvor du angiver, at du har modtaget det forkerte produkt. Vi prioriterer at få det rigtige produkt sendt til dig i en fart.<\/p>"
+            }
+          },
+          "a4fb568f-5eb5-47fd-9de0-caef948745df": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvor lang er garantien på Anodyne® produkter?",
+              "text": "<p>Du har 24 måneders reklamationsret. Hvis produktet er defekt, bytter vi det, så længe du har fulgt plejeinstruktionerne. Skulle dit produkt mod forventning have en fabrikationsfejl, tager vi naturligvis den defekte vare tilbage og refunderer det indbetalte beløb eller bytter produktet til et nyt. Hvis du er en af de få, der er uheldige at sidde med et defekt produkt, så kontakt os hurtigst muligt, så vi kan sende dig et nyt produkt, som du kan få glæde af. Vi ønsker, at du skal være fuldt ud tilfreds med dit køb.<\/p>"
+            }
+          },
+          "1165499a-02b2-4234-87d6-cbca09f9a06e": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Ombytning & Retur",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "01d1a4d8-9f8d-4c48-af64-d9c7f12a1efb": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvad betyder jeres 30-dages prøveperiode?",
+              "text": "<p>Hos Anodyne® er det vores mål, at du bliver glad for dit køb. Det indebærer blandt andet, at du har en 30-dages prøveperiode. Det betyder, at du inden for 30 dage frit kan teste og afprøve dit produkt. Brug tøjet i din hverdag, på arbejde, til sport eller i andre sammenhænge og lad dette afgøre, om du er tilfreds med dit produkt. Du må gerne vaske tøjet med parfumeri vaskemiddel i denne periode.<br\/><\/p><p>Skulle du mod forventning ikke være tilfreds, skal du blot følge trinnene i vores <a href=\"\/pages\/returportal\" title=\"Returportal\">ombytnings- & returportal<\/a>. Her får du også mulighed for at printe en gratis returlabel. Så snart vi modtager din pakke, behandler vi din ombytning og sender et nyt produkt afsted til dig. <br\/><br\/>Produktet skal leveres tilbage til Anodyne® i original emballage, i god stand, uden stærk lugt af f.eks. parfume eller røg og med alle vaske- og produktmærker intakte. Hvis der er brugt skyllemiddel eller tørretumbler, kan vi afvise at refundere det betalte beløb, da produktet herved bliver ødelagt.<\/p>"
+            }
+          },
+          "22d4bc2c-7c72-4162-89bc-0662744a5aeb": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Kan jeg ombytte min ordre?",
+              "text": "<p>Ja, hvis du stadig er inden for din 30-dages prøveperiode. Følg blot trinnene i vores <a href=\"\/pages\/returportal\" title=\"Returportal\">ombytnings- & returportal<\/a>. Her får du også får mulighed for at printe en gratis fragtlabel. <br\/>Så snart vi modtager din pakke, behandler vi din ombytning og sender et nyt produkt afsted til dig. Når du har modtaget dit nye produkt, starter en ny 30-dages prøveperiode.<br\/><br\/>Hvis du er i tvivl om din størrelse, så tøv ikke med at kontakte vores kundeservice (<a href=\"mailto:info@anodyne.dk\" title=\"mailto:info@anodyne.dk\">info@anodyne.dk<\/a>), så vi kan hjælpe dig med at vælge den rigtige størrelse.<\/p>"
+            }
+          },
+          "5ccc6c42-e193-4781-b245-1a612fe8b76d": {
+            "type": "text_block",
+            "disabled": true,
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Kan jeg returnere det\/de produkt(er), jeg har bestilt?",
+              "text": "<p>Ja, du har 30 dages fuld returret med refusion af hele beløbet. Udfyld og vedlæg den medsendte returformular med navn og ordrenummer og tilføj, at du ønsker at returnere produktet\/produkterne mod refusion. Herefter kan du sende pakken retur med den medsendte forudbetalte returlabel.<\/p>"
+            }
+          },
+          "94547239-64d8-49d3-9ca9-0f9588c84671": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Er det gratis at ombytte inden for 30 dage?",
+              "text": "<p>Ja, du kan nemt og gratis sende dit produkt retur ved at følge trinnene i vores <a href=\"\/pages\/returportal\" title=\"Returportal\">ombytnings- & returportal<\/a> og benytte den forudbetalte returlabel. Den modtager du på e-mail, når du har registeret din ombytning i portalen. Hvis du ønsker at ombytte til en anden størrelse eller farve kræves der ingen betaling. Vi ombytter blot og sender dig et nyt produkt. <br\/><\/p>"
+            }
+          },
+          "0e28a17a-8e36-491c-8c64-2c5098b9d3c4": {
+            "type": "text_block",
+            "disabled": true,
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Betaler jeg for ombytning eller returnering af et produkt?",
+              "text": "<p>Nej, i din ordre finder du en forudbetalt returlabel (sørg for at beholder den i din 30-dages prøveperiode, da vi ikke kan sende dig en ny label). Anbring din label på den originale emballage, som du har modtaget din ordre i. Sørg for at udfylde og medsende returformularen med dit navn, ordrenummer og grunden til returnering (refusion eller bytte), og vi sørger for, at din anmodning bliver imødekommet.<\/p>"
+            }
+          },
+          "7f15f122-e418-4f58-8ea3-f4b218761da0": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Hvordan returnerer jeg min ordre?",
+              "text": "<p>Hvis du ønsker at sende en ordre retur, skal du registrere de produkter, som du ønsker at ombytte eller returnere. Følg trinnene i <a href=\"\/pages\/returportal\" title=\"Returportal\">Returportalen<\/a>. <\/p><p>Hvis du ikke registrerer din retursending i returportalen, vil det ikke være muligt at behandle din returordre og ombytte eller refundere de pågældende produkter. <\/p><p>Vi bestræber os på at behandle din returordre indenfor 1-3 dage, efter vi har modtaget den. Vi sørger her for, at din anmodning bliver imødekommet. <\/p>"
+            }
+          },
+          "426b28df-ebbd-4803-bddd-a84c6c77234e": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Jeg har returneret min vare. Hvornår modtager jeg refusionen?",
+              "text": "<p>Normalvis modtager vi din returpakke inden for 2-5 arbejdsdage. Vi bestræber os på at behandle din ombytning eller refusion indenfor 1-3 hverdage.<br\/> <br\/><strong>Paypal: <\/strong>Hvis du har betalt med PayPal, får du pengene tilbage til din PayPal-konto inden for få minutter efter modtagelse af vores e-mail, der bekræfter refusionen.<\/p><p><strong>Kreditkort\/betalingskort:<\/strong> Hvis du har købt ved hjælp af et kreditkort eller betalingskort, tager det typisk 2-5 dage, før pengene er tilbage på din bankkonto. I få tilfælde kan gå 8-10 hverdage før, du kan se krediteringen på din konto. <\/p><p><strong>Klarna: <\/strong>Hvis du har betalt for din ordre med ved hjælp af Klarna, tilbagebetales refusionen til det samme kort inden for 14 dage efter, at Anodyne har annulleret ordren.<\/p>"
+            }
+          },
+          "5e725c8e-afa6-4af3-a42f-6ca06c20eea2": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Mit nyligt modtagne produkt er beskadiget eller ødelagt. Hvad skal jeg gøre?",
+              "text": "<p>Hos Anodyne gør vi altid vores bedste for at sikre, at alle produkter leveres i god stand. En fabriksfejl kan dog altid ske. <strong><br\/>Hvis du modtager et beskadiget eller ødelagt produkt, skal du: <br\/>1: <\/strong>Kontakte kundeservice hurtigst muligt på <a href=\"mailto:info@anodyne.dk\" title=\"mailto:info@anodyne.dk\">info@anodyne.dk<\/a> - så sørger vi for, at du får et nyt produkt med det samme.<br\/><strong>2: <\/strong>Hernæst skal du følge trinnene i vores <a href=\"\/pages\/returportal\" title=\"Returportal\">ombytnings- & returportal<\/a>. Her får du også får mulighed for at printe en gratis fragtlabel. <br\/><\/p>"
+            }
+          },
+          "511b7f8d-9aa7-43a3-b67d-b6d1ff8a9e2f": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Jeg fik mit produkt som en gave. Kan jeg få købsbeløbet tilbagebetalt til min egen konto?",
+              "text": "<p>Vi kan desværre ikke tilbagebetale penge til en anden konto end til den, hvor pengene oprindeligt blev trukket. Hvis produktet ikke er noget for dig, og du ikke ønsker at involvere den person, der gav dig produktet som en gave, kan du i stedet vælge at ombytte produktet til en anden vare. Følg blot trinnene i vores <a href=\"\/pages\/returportal\" title=\"Returportal\">ombytnings- & returportal<\/a>. Her får du også får mulighed for at printe en gratis fragtlabel. <br\/>Så snart vi modtager din pakke, behandler vi din ombytning og sender et nyt produkt afsted til dig.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "21170241-e223-4c47-bc79-e2ee2878272e",
+          "98f5a103-7050-4f71-9ceb-d51064a0571c",
+          "51d055bd-7606-4a10-8020-661e7baaf994",
+          "b3cb421f-11d4-472c-95a9-a2a96bd8c1b4",
+          "fff8ad10-293f-4a80-9dfd-49bae841f95b",
+          "93093c45-1166-4eb5-99da-f580e03c0459",
+          "537d2df8-4438-411b-94f8-22a1c0f58067",
+          "c564418c-9354-4e58-a39a-0eb8c44ea728",
+          "7661c859-d1d1-46cb-971f-821b1ccccf03",
+          "160931be-08d2-42b1-9b3f-04f4c35f2bf9",
+          "bfe856a3-ef15-4b4b-873f-92b652251152",
+          "a585ce43-5f0e-4e75-8428-2bf1d3baabf5",
+          "e839b793-e06a-421a-b77e-53033c156439",
+          "83b8055a-b308-46f8-8672-8f83bd45791f",
+          "3306bdee-e3a8-4724-bae1-6283c801630b",
+          "9ce299d6-a528-47b4-8f65-725d158f776b",
+          "24c9069e-5591-42a4-b0b1-1ba393faa10a",
+          "535bddc1-f4fb-45da-8f9c-4d7b3d9a375f",
+          "ccfa0081-2993-4cad-986e-299ad2711d18",
+          "e0aad449-d74c-445d-98ee-e08f97e98fa3",
+          "de205e96-066f-4c7f-a04c-351b8dc03979",
+          "3809a5e7-7c91-41f7-912f-ae2ee8f7b5cd",
+          "c8ab5243-02cf-41ef-9c2c-eeb2eb967467",
+          "f42ad615-c53e-4120-b521-7297d2d23cb0",
+          "27452e2c-2dd6-4e78-9f00-9ef214e95f51",
+          "a8e91025-c107-42fd-97f6-bdeb9dc84ad2",
+          "a4fb568f-5eb5-47fd-9de0-caef948745df",
+          "1165499a-02b2-4234-87d6-cbca09f9a06e",
+          "01d1a4d8-9f8d-4c48-af64-d9c7f12a1efb",
+          "22d4bc2c-7c72-4162-89bc-0662744a5aeb",
+          "5ccc6c42-e193-4781-b245-1a612fe8b76d",
+          "94547239-64d8-49d3-9ca9-0f9588c84671",
+          "0e28a17a-8e36-491c-8c64-2c5098b9d3c4",
+          "7f15f122-e418-4f58-8ea3-f4b218761da0",
+          "426b28df-ebbd-4803-bddd-a84c6c77234e",
+          "5e725c8e-afa6-4af3-a42f-6ca06c20eea2",
+          "511b7f8d-9aa7-43a3-b67d-b6d1ff8a9e2f"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "dbtfy_faq_searchbox": true,
+          "dbtfy_faq_search_placeholder": "Søg efter spørgsmål",
+          "dbtfy_faq_bannerbox": true,
+          "dbtfy_faq_banner_icon": "live_help",
+          "dbtfy_faq_banner_text": "Fandt du ikke svar på dit spørgsmål?",
+          "dbtfy_faq_banner_subtitle": "Så husk at vores kundeservice sidder klar til at hjælpe dig både før, under og efter dit køb.",
+          "dbtfy_faq_btn": "Kontakt os",
+          "dbtfy_faq_link": "shopify:\/\/pages\/kontakt"
+        }
+      },
+      "map": {
+        "type": "map",
+        "settings": {
+          "show_on_desktop": false,
+          "show_on_mobile": false,
+          "hide_section": false,
+          "heading": "Our store",
+          "address": "<p>123 Fake St.<br\/>Toronto, Canada<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 9pm<br\/>Sunday, 11am - 5pm<\/p>",
+          "map_address": "490 Rue De La Gauchetière O, Montréal",
+          "button_text": "Get directions",
+          "map_icon": "location_on",
+          "api_key": "",
+          "image_position": "center center"
+        }
+      },
+      "password-header": {
+        "type": "password-header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/Anodyne_black_medium_0f8e7201-7c03-4de4-86fe-0f3e312ed672.png",
+          "logo_svg": "",
+          "logo_width": 132
+        }
+      },
+      "password-content": {
+        "type": "password-content",
+        "settings": {
+          "title": "Black",
+          "title_second": "Days",
+          "background_style": "background-blank",
+          "image": "shopify:\/\/shop_images\/fbbg.jpg",
+          "counter__date": "Nov 19, 2021 23:59:59",
+          "counter__end_text": "<p>The Count down is over from customizer!<\/p>",
+          "newsletter_enable": true,
+          "newsletter_form_heading": "<p>Vi har lukket siden ned, mens vi forbereder <strong>BLACK DAYS<br\/>med op til 80% rabat<\/strong>! <\/p><p>Men du kan allerede nu få eksklusiv adgang til <strong>ALLE tilbud<\/strong> før alle andre! Indtast din e-mail nedenfor og modtag din adgangskode til at låse siden op allerede NU!<\/p>",
+          "newsletter_placeholder": "Email addresse",
+          "newsletter_button_text": "Giv mig besked",
+          "show_share_buttons": true
+        }
+      },
+      "password-footer": {
+        "type": "password-footer",
+        "settings": {
+          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N - CVR: 37167053<br\/><em>(NB: Intet salg på adressen)<\/em><\/p>"
+        }
+      },
+      "1636700831d29b8f51": {
+        "type": "featured-image",
+        "disabled": true,
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "full_width": true,
+          "image": "shopify:\/\/shop_images\/bf.jpg",
+          "section_style": "section-blank",
+          "wrapper__height": 535,
+          "image_title": "<p><strong>Velkommen til <\/strong><\/p><p>BLACK <strong>DAYS<\/strong><\/p>",
+          "image_subtitle": "<p>Vi har rabat på <strong>alle<\/strong> produkter<\/p><p><strong>Spar op til -80%<\/strong><\/p>",
+          "image_btntext": "SE ALLE TILBUD",
+          "image_link": "shopify:\/\/collections\/alle-produkter",
+          "show_on_image_scrolldown": true
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "section_height": "medium",
+          "collection_per_page": 12
+        }
+      }
+    },
+    "content_for_index": [
+      "16300631015589eb65",
+      "1636700831d29b8f51",
+      "1630063768bdfa2f5f",
+      "1630070175c6ebb320",
+      "163032369225153039",
+      "163032806406e9f003",
+      "1630331223d20499c6",
+      "163039383589cd0ef5",
+      "1630404145a76c9e4d",
+      "1630409395746d29de",
+      "16334458477be6bcd8"
+    ]
+  }
+}
