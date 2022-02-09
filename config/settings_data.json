@@ -123,6 +123,7 @@
     "dbtfy_cookie_box_button_label": "Acceptér cookies",
     "dbtfy_inactive_tab_message_text_first": "👕 up to 50% off",
     "dbtfy_inactive_tab_message_text_second": "👕 Anodyne discounts",
+    "dbtfy_infinite_scroll_options": "scroll",
     "dbtfy_infinite_scroll_loading_text": "Indlæs flere",
     "dbtfy_inventory_quantity_threshold": 20,
     "dbtfy_menu_bar_link_list": "main-menu",
@@ -459,8 +460,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.dk\/\" title=\"https:\/\/www.anodyne.dk\/\"><strong>⚡️30% FLASH SALE⚡️<\/strong> Brug koden 'FLASH'<\/a><\/p>",
-              "announcement_counter": "Jan 31, 2021 23:59:59",
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.dk\/pages\/rabatkode\" title=\"https:\/\/www.anodyne.dk\/pages\/rabatkode\"><strong>Klik her og få op til 25% rabat<\/strong><\/a><\/p>",
+              "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
