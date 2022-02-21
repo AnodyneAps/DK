@@ -7356,6 +7356,28 @@ margin: 0 0.3rem;
   a{
     color: $cPrimary;
   }
+  
+  .size-container {
+    
+    .size-image{ margin-bottom: 1rem; }
+  }
+  
+	@include screenUp($postSmall){
+      
+        .size-container{
+          display: flex;
+          justify-content: space-between;
+          align-items:flex-start;
+          .size-image{ 
+            margin-top: 0; 
+            padding-right: 1rem; 
+          }
+          .table {
+            flex-grow: 2;
+          }
+        }
+      
+    }
 }
 
 .product-single__description,

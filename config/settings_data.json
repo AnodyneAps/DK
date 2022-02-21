@@ -71,6 +71,7 @@
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": false,
     "dbtfy_cart_favicon": false,
+    "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
@@ -95,6 +96,7 @@
     "dbtfy_shop_protect": false,
     "dbtfy_skip_cart": false,
     "dbtfy_size_chart": false,
+    "dbtfy_social_discount": false,
     "dbtfy_sticky_addtocart": false,
     "synced_variant_image": false,
     "dbtfy_upsell_popup": true,
@@ -113,7 +115,8 @@
     "dbtfy_cart_discount_label": "Rabatkode eller gavekort?",
     "dbtfy_cart_discount_placeholder": "Indtast koden her",
     "dbtfy_cart_discount_apply_button_label": "Brug kode",
-    "nlify_cart_notification": "Har du valgt den rigtige størrelse? Husk at tjekke størrelsesguiden inden købet.",
+    "nlify_cart_notification": "HUSK: Vi mængderabat på de fleste produkter. Køb mere og opnå store besparelser. Du kan sagtens kombinere mængderabatter med en rabatkode!",
+    "nlify_custom_drawer_icon": "",
     "dbtfy_cart_goal_before_text": "Endnu",
     "dbtfy_cart_goal_amount": "399",
     "dbtfy_cart_goal_after_text": "til gratis forsendelse.",
@@ -163,6 +166,7 @@
     "dbtfy_social_discount_reward_button": "Brug rabatkode",
     "dbtfy_social_discount_reward_code": "20GWS15",
     "dbtfy_social_discount_reward_amount": "10",
+    "dbtfy_trust_badge_cart": false,
     "dbtfy_trust_badge_image": "shopify:\/\/shop_images\/Payment_denmark.png",
     "dbtfy_trust_badge_text": "Nem, hurtig og sikker betaling",
     "dbtfy_wish_list_add_text": "Føj til ønskeliste",
@@ -250,8 +254,8 @@
           "eda47616-f2ab-4615-8281-7b159e2ca931": {
             "type": "cart-upsell",
             "settings": {
-              "dbtfy_cart_general_upsell_title": "Forlæng levetiden på din Posture Shirt eller BH med en vaskepose",
-              "dbtfy_cart_general_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_general_upsell_title": "<strong>Spar 70%<\/strong> på en BackJoy Posture+ og få en med for kun 149 kr (normalpris 499,-)",
+              "dbtfy_cart_general_upsell_product_offer": "backjoy-posture",
               "dbtfy_cart_general_upsell_btn_title": "Ja tak"
             }
           },
@@ -259,9 +263,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din BH med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -269,9 +273,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -279,9 +283,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -289,9 +293,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -299,9 +303,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -309,9 +313,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -319,9 +323,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -329,9 +333,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -339,9 +343,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -349,9 +353,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-mint",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -359,9 +363,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-bordeaux",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -369,9 +373,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           },
@@ -379,9 +383,109 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Få en Skulderstøtte Basic med til under halv pris (norm. 349,00 kr.)",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "e20c211d-5510-4cad-945b-9502b53d8c70": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Tilkøb en Mylign Cape for at opnå ekstra støtte til din MyLign Pro vest.",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-mylign-pro",
+              "dbtfy_cart_specific_upsell_product_offer": "cape-mylign",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "4537243a-5e8c-4944-9704-8ccf5b3fd121": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Tilkøb en Mylign Cape for at opnå ekstra støtte til din MyLign Pro vest.",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-mylign-pro",
+              "dbtfy_cart_specific_upsell_product_offer": "cape-mylign",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "e273e101-cfa7-4428-81f6-0eb717764dbe": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-bla",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "eef0c621-2bd7-4847-b80f-5a2cd575d779": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-hvid",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "b4cc6afc-9d5a-40fb-8661-06b8d1acf7bc": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-sort",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "4f955560-13a1-4860-9786-72b3ea20076d": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-zipper-hvid",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "b35a7cdc-554c-4ca9-9379-70f134f62bbc": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-zipper-sort",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": ""
+            }
+          },
+          "040e0a5a-60bb-448e-93a1-5faa8527da88": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt™-bla",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "e5d08ad6-10cd-402c-b72e-4c201949926a": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-bordeaux",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "935f5066-ba34-437f-aabf-3d465e606c0a": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-hvid",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
           }
@@ -400,7 +504,17 @@
           "ed028377-3d6a-4293-835e-79574ce89c49",
           "94b707a2-a503-4a8f-b30c-aab29d053837",
           "e379318f-cc80-4e5d-ae95-2db2dc3becb9",
-          "08772725-b15b-4b94-8bfd-aa7354171c64"
+          "08772725-b15b-4b94-8bfd-aa7354171c64",
+          "e20c211d-5510-4cad-945b-9502b53d8c70",
+          "4537243a-5e8c-4944-9704-8ccf5b3fd121",
+          "e273e101-cfa7-4428-81f6-0eb717764dbe",
+          "eef0c621-2bd7-4847-b80f-5a2cd575d779",
+          "b4cc6afc-9d5a-40fb-8661-06b8d1acf7bc",
+          "4f955560-13a1-4860-9786-72b3ea20076d",
+          "b35a7cdc-554c-4ca9-9379-70f134f62bbc",
+          "040e0a5a-60bb-448e-93a1-5faa8527da88",
+          "e5d08ad6-10cd-402c-b72e-4c201949926a",
+          "935f5066-ba34-437f-aabf-3d465e606c0a"
         ],
         "settings": {
           "dbtfy_cart_upsell_button_style": "btn--primary"
@@ -460,7 +574,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.dk\/pages\/rabatkode\" title=\"https:\/\/www.anodyne.dk\/pages\/rabatkode\"><strong>Klik her og få op til 25% rabat<\/strong><\/a><\/p>",
+              "announcement_text": "<p>30 dages returret | Gratis fragt ved køb over 399 kr<\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
