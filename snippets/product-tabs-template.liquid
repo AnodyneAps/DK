@@ -581,7 +581,7 @@
                                 {%- render "a3-posture-shirt-radios" -%}
                                 {% elsif collection.handle == "kvinder" or collection.handle == "maend" or product.handle == "womens-posture-shirt" or product.handle == "mens-posture-shirt" %}
                                 {%- render "a3-posture-shirt-radios" -%}
-                                {%- elsif  collection.handle ==  "demosalg" or product.handle == "demo-womens-posture-shirt" or product.handle == "demo-mens-posture-shirt" -%}
+                                {%- elsif  product.handle contains "demo-womens-posture-shirt" or product.handle contains "demo-mens-posture-shirt" -%}
                                 {%- render "a7-demo-posture-radios" -%}
                                 {%- elsif  product.handle ==  "skulderstoette-comfort" -%}
                                 {%- render "a2-comfort-plus-radios" -%}
@@ -607,7 +607,7 @@
                                       {%- assign hide_quantity_box = false -%}
                                  {% elsif collection.handle == "kvinder" or collection.handle == "maend" or product.handle == "womens-posture-shirt" or product.handle == "mens-posture-shirt" %}
                                          {%- assign hide_quantity_box = false -%}
-                                {%- elsif  collection.handle == "demosalg" or product.handle == "demo-womens-posture-shirt" or product.handle == "demo-mens-posture-shirt"  -%}
+                                {%- elsif  product.handle contains "demo-womens-posture-shirt" or product.handle contains "demo-mens-posture-shirt"  -%}
                                          {%- assign hide_quantity_box = false -%}
                                  {%- elsif  product.handle ==  "skulderstoette-basic" -%}
                                          {%- assign hide_quantity_box = false -%}
