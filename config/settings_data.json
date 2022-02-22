@@ -354,7 +354,7 @@
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
-              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-mint",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-mint",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
@@ -364,7 +364,7 @@
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
-              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-bordeaux",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-bordeaux",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
@@ -474,7 +474,7 @@
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
-              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-bordeaux",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-bordeaux",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
             }
@@ -487,6 +487,106 @@
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "4de0e181-7aa7-4229-a1aa-01fa0d80fffc": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-mint",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "JA TAK"
+            }
+          },
+          "7e89d8bd-e2b2-44dc-b241-af4d53830191": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-nude",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+            }
+          },
+          "5afc1dcb-dc55-4c18-9e63-b75c051f263d": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-sort",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+            }
+          },
+          "3da67e8d-501e-437f-86a5-937d0dd8c259": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-zipper-hvid",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+            }
+          },
+          "bc8a452e-a145-4b56-9712-1b46a79533af": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-zipper-nude",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+            }
+          },
+          "3afeb1fc-af35-4c38-b3ea-35cf001f5b7b": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-zipper-sort",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+            }
+          },
+          "bf2cf95a-9803-4a8b-9130-0d15506c89b5": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din BH med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+            }
+          },
+          "e66c8394-7b72-453a-b169-3a7f2f221c51": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din BH med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-hvid",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+            }
+          },
+          "6c91f1e1-b17c-4b5e-94a8-bc7bd1abf138": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din BH med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-nude",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+            }
+          },
+          "95dbad96-900d-4e96-9407-b4b0c06cebf2": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din BH med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-sort",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
+              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
             }
           }
         },
@@ -514,7 +614,17 @@
           "b35a7cdc-554c-4ca9-9379-70f134f62bbc",
           "040e0a5a-60bb-448e-93a1-5faa8527da88",
           "e5d08ad6-10cd-402c-b72e-4c201949926a",
-          "935f5066-ba34-437f-aabf-3d465e606c0a"
+          "935f5066-ba34-437f-aabf-3d465e606c0a",
+          "4de0e181-7aa7-4229-a1aa-01fa0d80fffc",
+          "7e89d8bd-e2b2-44dc-b241-af4d53830191",
+          "5afc1dcb-dc55-4c18-9e63-b75c051f263d",
+          "3da67e8d-501e-437f-86a5-937d0dd8c259",
+          "bc8a452e-a145-4b56-9712-1b46a79533af",
+          "3afeb1fc-af35-4c38-b3ea-35cf001f5b7b",
+          "bf2cf95a-9803-4a8b-9130-0d15506c89b5",
+          "e66c8394-7b72-453a-b169-3a7f2f221c51",
+          "6c91f1e1-b17c-4b5e-94a8-bc7bd1abf138",
+          "95dbad96-900d-4e96-9407-b4b0c06cebf2"
         ],
         "settings": {
           "dbtfy_cart_upsell_button_style": "btn--primary"
@@ -574,7 +684,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>30 dages returret | Gratis fragt ved køb over 399 kr<\/p>",
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.dk\/collections\/demosalg\" title=\"https:\/\/www.anodyne.dk\/collections\/demosalg\"><strong>DEMOSALG!<\/strong> Spar op til 70% - <span style=\"text-decoration:underline\"><strong>KLIK HER<\/strong><\/span><\/a><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -966,14 +1076,14 @@
           "show_overlay": true,
           "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
           "image_position": "center center",
-          "video_title": "<span class=\"first\">Velkommen<\/span>",
+          "video_title": "<span class=\"first\">DEMOSALG<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>Få en bedre kropsholdning og reducér smerter med Anodyne®<\/strong><\/p>",
+          "text_description": "<p><strong>Spar op til 70% i vores store online demo- og lagersalg. Kun så længe lager haves...<\/strong><\/p>",
           "text_description_size": "medium",
           "button_label": "Mænd",
-          "button_link": "shopify:\/\/collections\/maend",
+          "button_link": "shopify:\/\/collections\/demosalg",
           "second_button_label": "Kvinder",
-          "second_button_link": "shopify:\/\/collections\/kvinder",
+          "second_button_link": "shopify:\/\/collections\/demosalg",
           "show_scrolldown": true
         }
       },
