@@ -595,7 +595,9 @@
                                 {%- render "a6-bh-radios" -%}
                                 {%- endif -%}
                             <!-- manual Qb check end  -->
+
                           {%- endif -%}
+
                           {%- render "dbtfy-inventory-quantity", product: product -%}
                           {%- if section.settings.quantity_enabled -%}
                                  <!-- Quantity selecter check start -->
@@ -624,6 +626,8 @@
                        {%- endif -%}
                     </div>
                   {%- endif -%}
+        
+     
 									<!-- size-chart -->
 									{%- if show_sizeGuide == true -%}
 									<div class="custom_size_chart">

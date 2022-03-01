@@ -6173,8 +6173,9 @@ cite {
 
 // Drawer inner
 .drawer__inner {
-  overflow-y: auto;
-  overflow-x: hidden;
+  // overflow-y: auto;
+  // overflow-x: hidden;
+  overflow: hidden;
   -webkit-overflow-scrolling: touch;
   position: relative;
   @include flex(auto);
@@ -6896,6 +6897,9 @@ margin: 0 0.3rem;
     display: none;
   }
 }
+.flex-full__overflowy--auto{
+  overflow-y: auto !important;
+}
 
 .ajaxcart_row {
   @include transition($transitions);
@@ -7336,6 +7340,7 @@ margin: 0 0.3rem;
   a{
     color: $cPrimary;
   }
+  
   .size-container {
     display: flex;
     justify-content: flex-start;
@@ -7348,6 +7353,7 @@ margin: 0 0.3rem;
       margin-top: 1rem;
     }
   }
+  
 }
 
 .product-single__description,

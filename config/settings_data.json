@@ -115,7 +115,7 @@
     "dbtfy_cart_discount_label": "Rabatkode eller gavekort?",
     "dbtfy_cart_discount_placeholder": "Indtast koden her",
     "dbtfy_cart_discount_apply_button_label": "Brug kode",
-    "nlify_cart_notification": "HUSK: Vi mængderabat på de fleste produkter. Køb mere og opnå store besparelser. Du kan sagtens kombinere mængderabatter med en rabatkode!",
+    "nlify_cart_notification": "HUSK: Vi tilbyder mængderabat på de fleste produkter. Køb mere og opnå store besparelser. Du kan sagtens kombinere mængderabatter med en rabatkode!",
     "nlify_custom_drawer_icon": "",
     "dbtfy_cart_goal_before_text": "Endnu",
     "dbtfy_cart_goal_amount": "399",
@@ -254,7 +254,7 @@
           "eda47616-f2ab-4615-8281-7b159e2ca931": {
             "type": "cart-upsell",
             "settings": {
-              "dbtfy_cart_general_upsell_title": "<strong>Spar 70%<\/strong> på en BackJoy Posture+ og få en med for kun 149 kr (normalpris 499,-)",
+              "dbtfy_cart_general_upsell_title": "<strong>Spar 72%<\/strong> på en BackJoy Posture+ og få en med for kun 139 kr (normalpris 499,-)",
               "dbtfy_cart_general_upsell_product_offer": "backjoy-posture",
               "dbtfy_cart_general_upsell_btn_title": "Ja tak"
             }
