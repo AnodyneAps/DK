@@ -254,8 +254,8 @@
           "eda47616-f2ab-4615-8281-7b159e2ca931": {
             "type": "cart-upsell",
             "settings": {
-              "dbtfy_cart_general_upsell_title": "<strong>Spar 72%<\/strong> på en BackJoy Posture+ og få en med for kun 139 kr (normalpris 499,-)",
-              "dbtfy_cart_general_upsell_product_offer": "backjoy-posture",
+              "dbtfy_cart_general_upsell_title": "UGENS DEAL! Tilføj en Skulderstøtte Basic og <strong>spar 60%<\/strong>. Du får lige nu en med for kun 149 kr (normalpris 349,-). Produktet er uden retur- og ombytningsret.",
+              "dbtfy_cart_general_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_general_upsell_btn_title": "Ja tak"
             }
           },
@@ -588,6 +588,26 @@
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
               "dbtfy_cart_specific_upsell_btn_title": "ja tak"
             }
+          },
+          "b2582cdd-165b-482f-a1be-cc5810e76484": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
+          },
+          "2b494a7c-cef1-47fa-b9e0-a772e6994016": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-bla",
+              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+            }
           }
         },
         "block_order": [
@@ -624,7 +644,9 @@
           "bf2cf95a-9803-4a8b-9130-0d15506c89b5",
           "e66c8394-7b72-453a-b169-3a7f2f221c51",
           "6c91f1e1-b17c-4b5e-94a8-bc7bd1abf138",
-          "95dbad96-900d-4e96-9407-b4b0c06cebf2"
+          "95dbad96-900d-4e96-9407-b4b0c06cebf2",
+          "b2582cdd-165b-482f-a1be-cc5810e76484",
+          "2b494a7c-cef1-47fa-b9e0-a772e6994016"
         ],
         "settings": {
           "dbtfy_cart_upsell_button_style": "btn--primary"
@@ -684,8 +706,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.dk\/collections\/demosalg\" title=\"https:\/\/www.anodyne.dk\/collections\/demosalg\"><strong>DEMOSALG!<\/strong> Spar op til 70% - <span style=\"text-decoration:underline\"><strong>KLIK HER<\/strong><\/span><\/a><\/p>",
-              "announcement_counter": "",
+              "announcement_text": "<p>Ugens deal slutter om:<\/p>",
+              "announcement_counter": "Mar 7, 2022 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
@@ -1076,14 +1098,14 @@
           "show_overlay": true,
           "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
           "image_position": "center center",
-          "video_title": "<span class=\"first\">DEMOSALG<\/span>",
+          "video_title": "<span class=\"first\">VELKOMMEN<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>Spar op til 70% i vores store online demo- og lagersalg. Kun så længe lager haves...<\/strong><\/p>",
+          "text_description": "<p><strong>Få en bedre kropsholdning og få færre smerter og spændinger med Anodyne®<\/strong><\/p>",
           "text_description_size": "medium",
           "button_label": "Mænd",
-          "button_link": "shopify:\/\/collections\/demosalg",
+          "button_link": "shopify:\/\/collections\/maend",
           "second_button_label": "Kvinder",
-          "second_button_link": "shopify:\/\/collections\/demosalg",
+          "second_button_link": "shopify:\/\/collections\/kvinder",
           "show_scrolldown": true
         }
       },

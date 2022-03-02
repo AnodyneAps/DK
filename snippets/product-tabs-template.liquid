@@ -927,7 +927,7 @@
           event.preventDefault()
           $("#not_select_id").html("<p id='not_select-m'> {{ 'products.sizes.choose-size-message' | t }}</p>"); 
           $('.variant-label-option-value').html("");
-       
+          setTimeout(function(){$("#not_select-m").hide();}, 2500);
           }
       });
     }

@@ -6021,7 +6021,7 @@ cite {
   overflow: hidden;
   top: 0;
   bottom: 0;
-  z-index: $zindexDrawer;
+  z-index: $zindexDrawer * 1000;
   display: none;
   @include flex-direction(column);
   @include transition($transitionDrawers);
@@ -6224,7 +6224,7 @@ cite {
 // Drawer footer
 .drawer__footer {
   background-color: $colorDrawerDefault;
-  padding: $gutter-sm;
+  padding: $gutter $gutter-sm;
   @include flex-shrink(0);
 
   &:empty {
@@ -6878,7 +6878,7 @@ margin: 0 0.3rem;
 
 /*================ _Cart_ajax ================*/
 #CartDrawer {
-  @include flex-direction(row);
+  @include flex-direction(column);
 }
 
 .ajaxcart-loading {
@@ -9956,7 +9956,7 @@ body:not(.dbtfy-wish_list-destroy) {
 }
 
 .nlify_custom_text {
-  margin: $gutter-xs ($gutter * 1) $gutter-xs $gutter;
+  margin: $gutter-xs $gutter;
   padding: $gutter-sm $gutter-xs 1px $gutter-xs;
   background-color: lighten($colorAccent, 45%);
   .small {
@@ -10403,7 +10403,10 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
 .basic-hide{
   display: none !important;
 }
-
+/* cart discount */
+.cd-apply{
+  border: 2px solid;
+}
 {%- if settings.custom_style != blank -%}
 /*================ _custom_styles ================*/
 {{ settings.custom_style }}
