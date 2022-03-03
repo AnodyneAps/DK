@@ -254,139 +254,139 @@
           "eda47616-f2ab-4615-8281-7b159e2ca931": {
             "type": "cart-upsell",
             "settings": {
-              "dbtfy_cart_general_upsell_title": "UGENS DEAL! Tilføj en Skulderstøtte Basic og <strong>spar 60%<\/strong>. Du får lige nu en med for kun 149 kr (normalpris 349,-). Produktet er uden retur- og ombytningsret.",
+              "dbtfy_cart_general_upsell_title": "UGENS DEAL! Tilføj en ekstra Skulderstøtte Basic og <strong>spar 50%<\/strong>. Du får lige nu en med for kun 169 kr (normalpris 349 kr)",
               "dbtfy_cart_general_upsell_product_offer": "skulderstotte-basic-tilkob",
-              "dbtfy_cart_general_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_general_upsell_btn_title": "Tilføj"
             }
           },
           "83f80c2a-10c7-4103-9838-7491836cbbe1": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din BH med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye BH, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "2a4f8ca2-499e-4231-bb54-cb5b2ffebd7b": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-sort",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "0e3fca14-65af-4c3e-b9b2-6aac8f23b41a": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-sort",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "a46471d3-85e8-43fb-a970-840fd53d21e6": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "1c7c590d-e045-4dcb-98d9-7473ccecfd6f": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "72be6422-26f6-4859-8cf9-5aac71f8d1eb": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-sort",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "7d9b43fa-20d3-4841-a552-93f9cfbb49c1": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-sort",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "bd77e9e8-8a13-4166-8e38-248d00a18ec9": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "bb2c4816-9913-4612-8bf6-5944f36f3ca3": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "ed028377-3d6a-4293-835e-79574ce89c49": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-mint",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "94b707a2-a503-4a8f-b30c-aab29d053837": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-bordeaux",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "e379318f-cc80-4e5d-ae95-2db2dc3becb9": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "08772725-b15b-4b94-8bfd-aa7354171c64": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "e20c211d-5510-4cad-945b-9502b53d8c70": {
@@ -396,7 +396,7 @@
               "dbtfy_cart_specific_upsell_title": "Tilkøb en Mylign Cape for at opnå ekstra støtte til din MyLign Pro vest.",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-mylign-pro",
               "dbtfy_cart_specific_upsell_product_offer": "cape-mylign",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "4537243a-5e8c-4944-9704-8ccf5b3fd121": {
@@ -406,7 +406,7 @@
               "dbtfy_cart_specific_upsell_title": "Tilkøb en Mylign Cape for at opnå ekstra støtte til din MyLign Pro vest.",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-mylign-pro",
               "dbtfy_cart_specific_upsell_product_offer": "cape-mylign",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "e273e101-cfa7-4428-81f6-0eb717764dbe": {
@@ -416,7 +416,7 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-bla",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "eef0c621-2bd7-4847-b80f-5a2cd575d779": {
@@ -426,7 +426,7 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "b4cc6afc-9d5a-40fb-8661-06b8d1acf7bc": {
@@ -436,7 +436,7 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-sort",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "4f955560-13a1-4860-9786-72b3ea20076d": {
@@ -446,7 +446,7 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-zipper-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "b35a7cdc-554c-4ca9-9379-70f134f62bbc": {
@@ -456,27 +456,27 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-zipper-sort",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": ""
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "040e0a5a-60bb-448e-93a1-5faa8527da88": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt™-bla",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "e5d08ad6-10cd-402c-b72e-4c201949926a": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-bordeaux",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "935f5066-ba34-437f-aabf-3d465e606c0a": {
@@ -486,17 +486,17 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "4de0e181-7aa7-4229-a1aa-01fa0d80fffc": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-mint",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "JA TAK"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "7e89d8bd-e2b2-44dc-b241-af4d53830191": {
@@ -506,7 +506,7 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-nude",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "5afc1dcb-dc55-4c18-9e63-b75c051f263d": {
@@ -516,7 +516,7 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-sort",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "3da67e8d-501e-437f-86a5-937d0dd8c259": {
@@ -526,7 +526,7 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-zipper-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "bc8a452e-a145-4b56-9712-1b46a79533af": {
@@ -536,7 +536,7 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-zipper-nude",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "3afeb1fc-af35-4c38-b3ea-35cf001f5b7b": {
@@ -546,67 +546,67 @@
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-zipper-sort",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "bf2cf95a-9803-4a8b-9130-0d15506c89b5": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din BH med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye BH, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-blaa",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
-              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "e66c8394-7b72-453a-b169-3a7f2f221c51": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din BH med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye BH, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
-              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "6c91f1e1-b17c-4b5e-94a8-bc7bd1abf138": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din BH med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye BH, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-nude",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
-              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "95dbad96-900d-4e96-9407-b4b0c06cebf2": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din BH med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye BH, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-sort",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
-              "dbtfy_cart_specific_upsell_btn_title": "ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "b2582cdd-165b-482f-a1be-cc5810e76484": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-blaa",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
           "2b494a7c-cef1-47fa-b9e0-a772e6994016": {
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
+              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-bla",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Ja tak"
+              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           }
         },
