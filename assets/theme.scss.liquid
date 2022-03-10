@@ -3398,15 +3398,29 @@ button {
     }
   }
 }
-#black-friday{
-  .badge{
-    .traingle_porcent{
-      &::after{
-        border-top: 40px solid  $colorDarkGray;
-      }
-    }
+.custom__labels--label{
+  position: absolute;
+  bottom: 10px;
+  z-index: 999;
+  background: $cAccent;
+  padding: 1px 10px;
+  font-size: 0.819rem;
+  font-weight: 500;
+  color: $white;
+  @include screenUp($postSmall){
+    padding: 2px 14px;
+    font-size: 0.999rem;
   }
 }
+// #black-friday{
+//   .badge{
+//     .traingle_porcent{
+//       &::after{
+//         border-top: 40px solid  $colorDarkGray;
+//       }
+//     }
+//   }
+// }
 /*================ _Dropdown ================*/
 // Dropdown wrapper
 .dropdown-wrapper {
@@ -3467,7 +3481,6 @@ button {
     display: block;
     @include animated(fadeInDown, $transitionDurationFast);
   }
-
   // Closing
   &.is-closing {
     display: block;
@@ -5296,7 +5309,7 @@ cite {
   // Track
   .slick-track {
     @include display-flexbox;
-    @include flex-wrap(wrap);
+    @include flex-wrap(nowrap);
   }
 
   // Slide

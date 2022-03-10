@@ -68,8 +68,10 @@
     "base_family": "avenir_next_n4",
     "base_font_size": 15,
     "custom_quantity_breaks": true,
+    "dbtfy_addtocart_animation": true,
+    "dbtfy_agree_to_terms": false,
     "dbtfy_back_in_stock": true,
-    "dbtfy_cart_countdown": false,
+    "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
     "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
@@ -93,7 +95,7 @@
     "dbtfy_recently_viewed": false,
     "dbtfy_sales_countdown": false,
     "dbtfy_sales_pop": false,
-    "dbtfy_shop_protect": false,
+    "dbtfy_shop_protect": true,
     "dbtfy_skip_cart": false,
     "dbtfy_size_chart": false,
     "dbtfy_social_discount": false,
@@ -112,6 +114,11 @@
     "dbtfy_back_in_stock_success": "<p>Vi sender dig en E-mail så snart produktet er på lager igen<\/p>",
     "dbtfy_back_in_stock_body_prefix": "Giv mig besked når",
     "dbtfy_back_in_stock_body_suffix": "er tilgængeligt igen -",
+    "dbtfy_cart_countdown_time_mins": 20,
+    "dbtfy_cart_countdown_icons": "history",
+    "dbtfy_cart_countdown_prefix": "Vi har reserveret dine varer i",
+    "dbtfy_cart_countdown_suffix": "",
+    "dbtfy_cart_countdown_msg_over": "Bestil før dine varer ikke længere er tilgængelige",
     "dbtfy_cart_discount_label": "Rabatkode eller gavekort?",
     "dbtfy_cart_discount_placeholder": "Indtast koden her",
     "dbtfy_cart_discount_apply_button_label": "Brug kode",
@@ -129,6 +136,10 @@
     "dbtfy_infinite_scroll_options": "scroll",
     "dbtfy_infinite_scroll_loading_text": "Indlæs flere",
     "dbtfy_inventory_quantity_threshold": 20,
+    "dbtfy_live_view_people": "andre brugere",
+    "dbtfy_live_view_suffix": "besøger vores webshop lige nu.",
+    "dbtfy_live_view_min": 10,
+    "dbtfy_live_view_max": 51,
     "dbtfy_menu_bar_link_list": "main-menu",
     "dbtfy_menu_bar_mobile": false,
     "dbtfy_menu_bar_desktop": false,
@@ -253,6 +264,7 @@
         "blocks": {
           "eda47616-f2ab-4615-8281-7b159e2ca931": {
             "type": "cart-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_general_upsell_title": "UGENS DEAL! Tilføj en ekstra Skulderstøtte Basic og <strong>spar 50%<\/strong>. Du får lige nu en med for kun 169 kr (normalpris 349 kr)",
               "dbtfy_cart_general_upsell_product_offer": "skulderstotte-basic-tilkob",
@@ -263,9 +275,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye BH, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -273,9 +285,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -283,9 +295,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -293,9 +305,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -303,9 +315,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -313,9 +325,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -323,9 +335,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -333,9 +345,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -343,9 +355,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -353,9 +365,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-mint",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -363,9 +375,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-bordeaux",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -373,9 +385,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -383,9 +395,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -463,9 +475,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt™-bla",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -473,9 +485,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-bordeaux",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -485,16 +497,6 @@
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Forlæng levetiden på din Posture Shirt med en vaskepose for kun 29,00 kr",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
-              "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
-            }
-          },
-          "4de0e181-7aa7-4229-a1aa-01fa0d80fffc": {
-            "type": "cart-item-upsell",
-            "settings": {
-              "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
-              "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-mint",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
@@ -553,9 +555,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye BH, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-blaa",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -563,9 +565,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye BH, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -573,9 +575,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye BH, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -583,9 +585,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye BH, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -593,9 +595,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-blaa",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -603,9 +605,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Du skal passe på din nye T-shirt, når du vasker den. Vi anbefaler at du altid vasker den i en vaskepose og har du ikke en i forvejen, kan du få en her for kun 29 kr",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 169 kr (normal 349 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-bla",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           }
@@ -635,7 +637,6 @@
           "040e0a5a-60bb-448e-93a1-5faa8527da88",
           "e5d08ad6-10cd-402c-b72e-4c201949926a",
           "935f5066-ba34-437f-aabf-3d465e606c0a",
-          "4de0e181-7aa7-4229-a1aa-01fa0d80fffc",
           "7e89d8bd-e2b2-44dc-b241-af4d53830191",
           "5afc1dcb-dc55-4c18-9e63-b75c051f263d",
           "3da67e8d-501e-437f-86a5-937d0dd8c259",
@@ -707,7 +708,7 @@
             "type": "message",
             "settings": {
               "announcement_text": "<p>Ugens deal slutter om:<\/p>",
-              "announcement_counter": "Mar 7, 2022 23:59:59",
+              "announcement_counter": "Mar 13, 2022 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
