@@ -5528,10 +5528,10 @@ cite {
 .collection-section{
   .collection__banner{
     margin-top: $gutter;
-    max-height: 60px;
+    max-height: 80px;
     overflow: hidden;
     @include screenUp($postSmall){
-      margin-left: -($gutter - 8);
+      margin-left: ($gutter * 2);
       margin-bottom: -$gutter;
     }
     .collection__banner-img{
@@ -10438,6 +10438,13 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
   @include screenUp($postInBetween){
     flex-direction: row;
     justify-content: flex-start;
+  }
+  .image__container{
+    img{
+      @include screenUp(1600px){
+      width: 1080px;
+      }
+    }
   }
   .c_title{
     width: 90%;

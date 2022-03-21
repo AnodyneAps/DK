@@ -5,13 +5,12 @@ Get featured image if not exist get first image from products
 {%- capture collection_image -%}
     <div class="image__container">
           {% if collection.image %}
-          {{ collection.image.src | collection_img_url: '700x350' | img_tag: collection.title }}
+          {{ collection.image.src | collection_img_url: '1080x350' | img_tag: collection.title }}
   {% else %}
-          {{ collection.products.first.featured_image.src | product_img_url: '700x350' | img_tag: collection.title }}
+          {{ collection.products.first.featured_image.src | product_img_url: '1080x350' | img_tag: collection.title }}
       {% endif %}
       </div>
 {%- endcapture -%}
-
 {%- comment -%}
 Get collection dynamic header title 
 {%- endcomment -%}
@@ -69,7 +68,7 @@ Get the collection sorting options
           {%- endif -%}
           {%- if section.settings.collection_stars or section.settings.stars_url != blank -%}
           <a target="_blank" class="t_stars" href="{{section.settings.stars_url | escape}}">
-            <img src="{{section.settings.collection_stars | img_url: '300x23'}}" alt="Anodyne trustpilot scors">
+            <img src="{{section.settings.collection_stars | img_url: '800x42'}}" alt="{{section.settings.collection_stars.alt}}" width="300">
           </a>
           {%- endif -%}
     </div>
@@ -284,7 +283,7 @@ Get the collection sorting options
       {
         "type": "image_picker",
         "id": "collection_stars",
-        "label": "Add a png picture in 300x23px"
+        "label": "Add a png picture in 800x42px"
       },
       {
         "type": "text",

@@ -713,8 +713,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Ugens deal slutter om:<\/p>",
-              "announcement_counter": "Mar 20, 2022 23:59:59",
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.dk\/pages\/rabatkode\" title=\"https:\/\/www.anodyne.dk\/pages\/rabatkode\"><span style=\"text-decoration:underline\"><strong>KLIK HER<\/strong><\/span> for at få en rabatkode<\/a><\/p>",
+              "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
@@ -1456,6 +1456,8 @@
       "collection-template": {
         "type": "collection-template",
         "settings": {
+          "collection_stars": "shopify:\/\/shop_images\/tp_dk_838e9f01-7db0-4b83-8174-b606066210f4.jpg",
+          "stars_url": "https:\/\/dk.trustpilot.com\/review\/www.anodyne.dk?stars=5",
           "collection_tags_enable": false,
           "collection_tags_count": false,
           "collection_multiple_tags_filtering_enable": false,
@@ -1463,9 +1465,7 @@
           "tag_selector": "button",
           "rows": "4",
           "desktop_grid": "4",
-          "mobile_grid": "2",
-          "collection_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_DK.jpg",
-          "collection_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_DK.jpg"
+          "mobile_grid": "2"
         }
       },
       "dbtfy-collection-filters": {
@@ -1488,8 +1488,10 @@
           "product_title_large": false,
           "show_product_tags": false,
           "show_sharing_icons": true,
-          "product_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_DK_96e4660b-ffe6-437f-9cb1-fff2cfb8e386.jpg",
-          "product_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_DK_4fbc6ab5-a7fe-4aa6-b52a-71cbb232b76f.jpg",
+          "product_banner": "shopify:\/\/shop_images\/frifragt2_21e9826d-ac57-4b69-8662-4aebb3eb890a.png",
+          "product_banner_mobile": "shopify:\/\/shop_images\/frifragtMobil.png",
+          "product_banner_postureshirt": "shopify:\/\/shop_images\/frifragt2_21e9826d-ac57-4b69-8662-4aebb3eb890a.png",
+          "product_banner_mobile_postureshirt": "shopify:\/\/shop_images\/frifragtMobil.png",
           "show_product_collections": false,
           "enable_image_zoom": true,
           "enable_video_looping": true,
