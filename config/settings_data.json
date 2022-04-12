@@ -79,7 +79,7 @@
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
-    "dbtfy_cart_discount": false,
+    "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
@@ -713,7 +713,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"\/collections\/alle-produkter\" title=\"Alle produkter\"><strong>FORÅRSUDSALG!<\/strong> Lige nu op til <strong>-70% rabat<\/strong><\/a><\/p>",
+              "announcement_text": "<p><a href=\"\/pages\/rabatkode\" title=\"Rabatkode\"><span style=\"text-decoration:underline\"><strong>KLIK HER<\/strong><\/span> for at få en -25% rabatkode<\/a><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
