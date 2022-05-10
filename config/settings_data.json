@@ -29,7 +29,7 @@
     "sale_type": "percentage",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
-    "color_announcement_bg": "#ff891d",
+    "color_announcement_bg": "#f48400",
     "color_nav_text": "#252525",
     "color_default": "#f7f7f7",
     "color_headings": "#252525",
@@ -79,7 +79,7 @@
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
-    "dbtfy_cart_discount": true,
+    "dbtfy_cart_discount": false,
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
@@ -713,7 +713,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"\/pages\/rabatkode\" title=\"Rabatkode\"><span style=\"text-decoration:underline\"><strong>KLIK HER<\/strong><\/span> for at få en -25% rabatkode<\/a><\/p>",
+              "announcement_text": "<p><a href=\"\/collections\/alle-produkter\" title=\"Alle produkter\"><strong>FORÅRSUDSALG! <\/strong>Rabat på <span style=\"text-decoration:underline\">ALLE<\/span> produkter<\/a><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -1242,6 +1242,7 @@
       },
       "163032806406e9f003": {
         "type": "quotes",
+        "disabled": true,
         "blocks": {
           "163032806406e9f003-0": {
             "type": "quote",
@@ -1249,8 +1250,7 @@
               "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
               "icon": "format_quote",
               "quote": "<p><em>Kan kun anbefale deres produkter til alle der har smerter i skulderen. Stor hjælp i en hård hverdag med smerter.<\/em><br\/><\/p>",
-              "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
-              "quotes_link": "https:\/\/dk.trustpilot.com\/review\/www.anodyne.dk?stars=5",
+              "quotes_link": "",
               "author": "Pernille J"
             }
           },
@@ -1260,8 +1260,7 @@
               "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
               "icon": "format_quote",
               "quote": "<p><em>Hurtig levering og fantastisk kvalitet. Jeg har købt tre T-shirts over to gange. Kan kun anbefale!<\/em><\/p>",
-              "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
-              "quotes_link": "https:\/\/dk.trustpilot.com\/review\/www.anodyne.dk?stars=5",
+              "quotes_link": "",
               "author": "Steen J."
             }
           },
@@ -1271,8 +1270,7 @@
               "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
               "icon": "format_quote",
               "quote": "<p><em>Super gode produkter, der holder hvad de lover. God størrelsesvejledning og  god service.<br\/>            <\/em><\/p>",
-              "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
-              "quotes_link": "https:\/\/dk.trustpilot.com\/review\/www.anodyne.dk?stars=5",
+              "quotes_link": "",
               "author": "Ida F.J."
             }
           }
@@ -1285,7 +1283,6 @@
         "settings": {
           "show_on_desktop": true,
           "show_on_mobile": true,
-          "trustpilot_imagetitle": "shopify:\/\/shop_images\/Trustpilot_logo.png",
           "title": "",
           "subtitle": "",
           "section_style": "section-blank",
@@ -1456,8 +1453,7 @@
       "collection-template": {
         "type": "collection-template",
         "settings": {
-          "collection_stars": "shopify:\/\/shop_images\/tp_dk_838e9f01-7db0-4b83-8174-b606066210f4.jpg",
-          "stars_url": "https:\/\/dk.trustpilot.com\/review\/www.anodyne.dk?stars=5",
+          "stars_url": "",
           "collection_tags_enable": false,
           "collection_tags_count": false,
           "collection_multiple_tags_filtering_enable": false,

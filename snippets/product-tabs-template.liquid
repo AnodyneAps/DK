@@ -578,7 +578,7 @@
 
                                 <!-- manual Qb check start -->
                                 {% for tag in product.tags %}
-                                {% if tag contains 'Posture Shirt' or tag contains 'posture shirt' %}     
+                                {% if tag contains 'posture_shirt' or tag contains 'posture shirt' %}     
                                      {%- render "a3-posture-shirt-radios" -%}  
                                 {% endif %}
                               {% endfor %}

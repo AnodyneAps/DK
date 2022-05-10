@@ -318,7 +318,7 @@
   },
   "products": {
     "general": {
-      "save_html": "Spar {{ saved_amount }}",
+      "save_html": "Du sparer {{ saved_amount }}",
       "collection_return": "Tilbage til {{ collection }}",
       "sale_price": "Udsalgspris",
       "regular_price": "Normalpris",
