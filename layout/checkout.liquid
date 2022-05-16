@@ -57,5 +57,76 @@
         }
         }
   </script>
+  <script>
+    (function($) {
+      window.PhoneNumberInputFormatter=function(){return false;};
+      $(document).on('page:load page:change', function() {
+      
+      if (Shopify.Checkout.step === 'contact_information') {
+      var $phoneField = $('[name="checkout[shipping_address][phone]"]:not([tabindex="-1"])');
+      var $phoneDiv = $('[data-address-field="phone"]');
+      var spanAppend = $("<span class='span-alert' style='color:orange'>Angiv venligst korrekt telefonnummer</span>");
+      
+      phoneFormatValidated = false;
+      // Remove automatic formatting triggers
+      $phoneField.removeAttr('data-phone-formatter data-phone-formatter-country-select');
+      // Set maxium size
+      $phoneField.attr('maxlength', 16);
+      $phoneField.attr('minlength', 8);
+      $phoneField.attr('size', 8);
+      
+      function phoneNumberValidation() {
+      
+      phoneFormatValidated = false;
+      var phoneFieldVal = $phoneField.val();
+      if(phoneFieldVal.length < 8){
+        phoneFormatValidated = false;
+        var formattedPhoneValue = phoneFieldVal.replace(/[^0-9]/g, '');
+        $phoneField.val(formattedPhoneValue);
+        $phoneField.css({'border': '2px solid red'});
+        $phoneDiv.append(spanAppend);
+      } else if(phoneFieldVal.length > 12) {
+        var formattedPhoneValue = phoneFieldVal.replace(/[^0-9]/g, '');
+        $phoneField.val(formattedPhoneValue);
+        $phoneDiv.append(spanAppend);
+      } else if(phoneFieldVal.length == 8) {
+        $phoneField.css({'border': '2px solid lightgreen'});
+        var formattedPhoneValue = phoneFieldVal.replace(/[^0-9]/g, '');
+        $phoneField.val(formattedPhoneValue);
+        phoneFormatValidated = true;
+      } 
+      else {
+      // Strip out any non-numeric characters
+      var formattedPhoneValue = phoneFieldVal.replace(/[^0-9]/g, '');
+      $phoneField.val(formattedPhoneValue);
+      phoneFormatValidated = true;
+      }
+      }
+   
+      // Run validator if there is a previously cached phone number
+      if ($phoneField.val() != "") { phoneNumberValidation() };
+
+      // Run validator when the user has switched focus from the phone field
+      $phoneField.on('blur', phoneNumberValidation);
+      $phoneField.on('change', phoneNumberValidation);
+      // Run the function when the continue button is clicked or the enter key is pressed
+      $('[data-step] form [type="submit"]').on('click', function(e) {
+      e.preventDefault();
+      phoneNumberValidation();
+      if (phoneFormatValidated) {
+      $('[data-step] form').trigger('submit');
+      }
+      });
+      $('[data-step] form').on('keypress', function(e) {
+      if (e.keyCode === 13) {
+      e.preventDefault();
+      phoneNumberValidation();
+      $('[data-step] form [type="submit"]').trigger('click');
+      }
+      });
+      }
+      });
+      })(Checkout.$);
+  </script>
   </body>
 </html>

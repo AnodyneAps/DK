@@ -79,7 +79,7 @@
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
-    "dbtfy_cart_discount": false,
+    "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
@@ -1242,16 +1242,15 @@
       },
       "163032806406e9f003": {
         "type": "quotes",
-        "disabled": true,
         "blocks": {
           "163032806406e9f003-0": {
             "type": "quote",
             "settings": {
               "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
               "icon": "format_quote",
-              "quote": "<p><em>Kan kun anbefale deres produkter til alle der har smerter i skulderen. Stor hjælp i en hård hverdag med smerter.<\/em><br\/><\/p>",
+              "quote": "<p><em>Kan kun anbefale deres produkter til alle der har smerter eller spændinger i skulderen. De har været en stor hjælp i en hård hverdag med smerter.<\/em><br\/><\/p>",
               "quotes_link": "",
-              "author": "Pernille J"
+              "author": "Laura J"
             }
           },
           "163032806406e9f003-1": {
@@ -1259,9 +1258,9 @@
             "settings": {
               "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
               "icon": "format_quote",
-              "quote": "<p><em>Hurtig levering og fantastisk kvalitet. Jeg har købt tre T-shirts over to gange. Kan kun anbefale!<\/em><\/p>",
+              "quote": "<p><em>Hurtig levering, fantastisk kvalitet og god service. Jeg har købt tre T-shirts over to gange. Kan kun anbefale dem til alle!<\/em><\/p>",
               "quotes_link": "",
-              "author": "Steen J."
+              "author": "Kristian J."
             }
           },
           "163032806406e9f003-2": {
@@ -1269,9 +1268,9 @@
             "settings": {
               "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
               "icon": "format_quote",
-              "quote": "<p><em>Super gode produkter, der holder hvad de lover. God størrelsesvejledning og  god service.<br\/>            <\/em><\/p>",
+              "quote": "<p><em>Super gode produkter, der holder hvad de lover. God størrelsesvejledning og god service. Jeg skal helt sikkert have en t-shirt mere!<br\/>            <\/em><\/p>",
               "quotes_link": "",
-              "author": "Ida F.J."
+              "author": "Stine F.J."
             }
           }
         },
