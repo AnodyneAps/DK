@@ -27,6 +27,7 @@
     "page_wrapper": "1248",
     "payment_icon_size": 24,
     "sale_type": "percentage",
+    "browsing_link": "shopify:\/\/collections\/alle-produkter",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
     "color_announcement_bg": "#f48400",
@@ -713,7 +714,34 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"\/collections\/alle-produkter\" title=\"Alle produkter\"><strong>FORÅRSUDSALG! <\/strong>Rabat på <span style=\"text-decoration:underline\">ALLE<\/span> produkter<\/a><\/p>",
+              "announcement_text": "<p>Altid 30 dages fuld returret<\/p>",
+              "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "90dc1ffb-6fa9-4684-9a72-1d28a9cbed0e": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Gratis ombytning og returnering<\/p>",
+              "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "08fca515-3ee7-44e1-89ed-c96bc970ee48": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Gratis levering ved køb over 399 kr<\/p>",
+              "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "fb2f4e7c-24d4-4558-a994-3af0b0651e99": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Hurtig levering med PostNord eller GLS<\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -721,7 +749,10 @@
           }
         },
         "block_order": [
-          "announcement-0"
+          "announcement-0",
+          "90dc1ffb-6fa9-4684-9a72-1d28a9cbed0e",
+          "08fca515-3ee7-44e1-89ed-c96bc970ee48",
+          "fb2f4e7c-24d4-4558-a994-3af0b0651e99"
         ],
         "settings": {
           "show_announcement": true,
@@ -730,7 +761,7 @@
           "phone": true,
           "left_message": "",
           "right_message": "<p><a href=\"\/pages\/kontakt\" target=\"_blank\" title=\"\/pages\/kontakt\">Kontakt<\/a><\/p>",
-          "announcement_autoplayspeed": 5
+          "announcement_autoplayspeed": 3
         }
       },
       "header": {
@@ -1107,7 +1138,7 @@
           "image_position": "center center",
           "video_title": "<span class=\"first\">VELKOMMEN<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>Få en bedre kropsholdning og få færre smerter og spændinger med Anodyne®<\/strong><\/p>",
+          "text_description": "<p><strong>Spar op til <\/strong><span style=\"text-decoration:underline\"><strong>50%<\/strong><\/span><strong> i vores store forårsudsalg. Alle produkter er nedsat!<\/strong><\/p>",
           "text_description_size": "medium",
           "button_label": "Mænd",
           "button_link": "shopify:\/\/collections\/maend",

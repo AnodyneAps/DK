@@ -4510,7 +4510,16 @@ cite {
 {{- settings.icon | prepend: "." -}} {
   @include iconFontStack;
 }
-
+.Icon {
+  display: inline-block;
+  height: 1.2em;
+  width: 1.2em;
+  fill: currentColor;
+  vertical-align: middle;
+  stroke-width: 1px;
+  background: none;
+  pointer-events: none;
+}
 .icon-image {
   line-height: 1;
 }
@@ -5656,11 +5665,10 @@ cite {
 
   a {
     color: $colorAnnouncementText;
-    margin-top: 5px;
   }
 
   .rte {
-    margin-bottom: 5px;
+    margin-bottom: 4px;
   }
 
   p {
@@ -5693,9 +5701,19 @@ cite {
 .announcement-message-item{
 
   .announcement-message{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap:.25em;
+    .Icon{
+      margin-right: 5px;
+      margin-top: -4px;
+      height: 20px;
+      width: auto;
+    }
     p{
-      margin:0 5px 0 0;
-      font-size:0.8rem;
+      padding-top:15px;
+      font-size:.999rem;
       font-weight:500;
       strong{
         color:$cAccent;

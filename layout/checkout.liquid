@@ -15,13 +15,11 @@
   </head>
   <body>
     {{ skip_to_content_link }}
-
     <header class="banner" data-header role="banner">
       <div class="wrap">
         {{ content_for_logo }}
       </div>
     </header>
-
     {{ order_summary_toggle }}
     <div class="content" data-content>
       <div class="wrap">
@@ -48,24 +46,23 @@
         </aside>
       </div>
     </div>
-
     {{ tracking_code }}
   <script>
-        if(typeof Checkout === 'object'){
-        if(typeof Checkout.$ === 'function'){
-        Checkout.$('button.order-summary-toggle.order-summary-toggle--show').trigger("click");
-        }
-        }
-  </script>
-  <script>
     (function($) {
+      if(typeof Checkout === 'object'){
+      if(typeof Checkout.$ === 'function'){
+      Checkout.$('button.order-summary-toggle.order-summary-toggle--show').trigger("click");
+      }
+      }
+      //check for valid 8 digits telephone number
       window.PhoneNumberInputFormatter=function(){return false;};
+
       $(document).on('page:load page:change', function() {
-      
       if (Shopify.Checkout.step === 'contact_information') {
       var $phoneField = $('[name="checkout[shipping_address][phone]"]:not([tabindex="-1"])');
       var $phoneDiv = $('[data-address-field="phone"]');
-      var spanAppend = $("<span class='span-alert' style='color:orange'>Angiv venligst korrekt telefonnummer</span>");
+      var spanAppend = $("<p class='field__message' style='color:#e22120'>Angiv venligst korrekt telefonnummer</p>");
+      var spanAppendSuccess = $("<p class='field__message' style='color:#67d767'>Tak, korrekt telefonnummer <span>&#10003;</span></p>");
       
       phoneFormatValidated = false;
       // Remove automatic formatting triggers
@@ -76,36 +73,38 @@
       $phoneField.attr('size', 8);
       
       function phoneNumberValidation() {
-      
-      phoneFormatValidated = false;
-      var phoneFieldVal = $phoneField.val();
-      if(phoneFieldVal.length < 8){
         phoneFormatValidated = false;
-        var formattedPhoneValue = phoneFieldVal.replace(/[^0-9]/g, '');
-        $phoneField.val(formattedPhoneValue);
-        $phoneField.css({'border': '2px solid red'});
-        $phoneDiv.append(spanAppend);
-      } else if(phoneFieldVal.length > 12) {
-        var formattedPhoneValue = phoneFieldVal.replace(/[^0-9]/g, '');
-        $phoneField.val(formattedPhoneValue);
-        $phoneDiv.append(spanAppend);
-      } else if(phoneFieldVal.length == 8) {
-        $phoneField.css({'border': '2px solid lightgreen'});
-        var formattedPhoneValue = phoneFieldVal.replace(/[^0-9]/g, '');
-        $phoneField.val(formattedPhoneValue);
-        phoneFormatValidated = true;
-      } 
-      else {
-      // Strip out any non-numeric characters
-      var formattedPhoneValue = phoneFieldVal.replace(/[^0-9]/g, '');
-      $phoneField.val(formattedPhoneValue);
-      phoneFormatValidated = true;
+        var phoneFieldVal = $phoneField.val();
+        if(phoneFieldVal.length < 8){
+            phoneFormatValidated = false;
+            formattedPhoneValueFunc($phoneField,phoneFieldVal);
+            $phoneField.css({'border': '2px solid #e22120'});
+            $phoneDiv.append(spanAppend.show());
+            spanAppendSuccess.hide();
+        } else if(phoneFieldVal.length > 12) {
+            $phoneField.css({'border': '2px solid #e22120'});
+            phoneFormatValidated = false;
+            formattedPhoneValueFunc($phoneField,phoneFieldVal);
+            $phoneDiv.append(spanAppend.show());
+            spanAppendSuccess.hide();
+        } else if(phoneFieldVal.length >= 8 || phoneFieldVal.length <= 12) {
+            $phoneField.css({'border': '2px solid #67d767'});
+            $phoneDiv.append(spanAppendSuccess.show());
+            spanAppend.hide();
+            formattedPhoneValueFunc($phoneField,phoneFieldVal);
+            phoneFormatValidated = true;
+        } else {
+            // Strip out any non-numeric characters
+            formattedPhoneValueFunc($phoneField,phoneFieldVal);
+            phoneFormatValidated = false;
+        }
       }
+      function formattedPhoneValueFunc(phoneField, phoneValue){
+        var formattedPhoneValue = phoneValue.replace(/[^0-9]/g, '');
+        phoneField.val(formattedPhoneValue);
       }
-   
       // Run validator if there is a previously cached phone number
       if ($phoneField.val() != "") { phoneNumberValidation() };
-
       // Run validator when the user has switched focus from the phone field
       $phoneField.on('blur', phoneNumberValidation);
       $phoneField.on('change', phoneNumberValidation);
