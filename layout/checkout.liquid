@@ -63,7 +63,6 @@
       var $phoneDiv = $('[data-address-field="phone"]');
       var spanAppend = $("<p class='field__message' style='color:#e22120'>Angiv venligst korrekt telefonnummer</p>");
       var spanAppendSuccess = $("<p class='field__message' style='color:#67d767'>Tak, korrekt telefonnummer <span>&#10003;</span></p>");
-      
       phoneFormatValidated = false;
       // Remove automatic formatting triggers
       $phoneField.removeAttr('data-phone-formatter data-phone-formatter-country-select');
@@ -100,7 +99,7 @@
         }
       }
       function formattedPhoneValueFunc(phoneField, phoneValue){
-        var formattedPhoneValue = phoneValue.replace(/[^0-9]/g, '');
+        var formattedPhoneValue = phoneValue.replace(/[^\+0-9]/g, '');
         phoneField.val(formattedPhoneValue);
       }
       // Run validator if there is a previously cached phone number

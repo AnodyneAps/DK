@@ -25,7 +25,9 @@
           
                 {%- unless block.settings.announcement_text == blank -%}
                   <div class="announcement-message"> 
+                    {% unless block.settings.icon_selector == 'none' %}
                     <span>{%- render 'icon' with {{block.settings.icon_selector}} -%}</span>
+                    {% endunless %}
                   {{ block.settings.announcement_text }}
                 </div>
                 {%- endunless -%}
@@ -143,6 +145,10 @@
             "label": "Select icon",
             "options": [
               {
+                "value": "none",
+                "label": "None"
+              },
+              {
                 "value": "lastbil",
                 "label": "Lastbil"
               },
@@ -175,7 +181,7 @@
                 "label": "Star"
               }
             ],
-            "default": "star"
+            "default": "none"
           },
           {
             "type": "text",

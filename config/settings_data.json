@@ -715,6 +715,7 @@
             "type": "message",
             "settings": {
               "announcement_text": "<p>Altid 30 dages fuld returret<\/p>",
+              "icon_selector": "smily",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -724,6 +725,7 @@
             "type": "message",
             "settings": {
               "announcement_text": "<p>Gratis ombytning og returnering<\/p>",
+              "icon_selector": "retur",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -733,6 +735,7 @@
             "type": "message",
             "settings": {
               "announcement_text": "<p>Gratis levering ved køb over 399 kr<\/p>",
+              "icon_selector": "flyben",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -742,6 +745,7 @@
             "type": "message",
             "settings": {
               "announcement_text": "<p>Hurtig levering med PostNord eller GLS<\/p>",
+              "icon_selector": "lastbil",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -761,7 +765,7 @@
           "phone": true,
           "left_message": "",
           "right_message": "<p><a href=\"\/pages\/kontakt\" target=\"_blank\" title=\"\/pages\/kontakt\">Kontakt<\/a><\/p>",
-          "announcement_autoplayspeed": 3
+          "announcement_autoplayspeed": 5
         }
       },
       "header": {
@@ -1251,7 +1255,7 @@
             "type": "html",
             "settings": {
               "mission_title": "Hvorfor vælge holdningskorrigerende tøj fra Anodyne?",
-              "mission_description": "Med <u><a href=\"\/\">holdningskorrigerende tøj<\/a><\/u> fra Anodyne® kan du på en enkelt og ubesværet måde opnå en bedre kropsholdning og reducere smerter og spændinger i nakke, skuldre og ryg. Anodyne® <u><a href=\"\/collections\/alle-produkter\/\">holdningstøj til mænd og kvinder<\/a><\/u> hjælper dig til at øge din kropsholdningsbevidsthed og kan bruges både, når du sidder på kontoret, rejser, er aktiv på jobbet eller bruger det til træning. Anodyne® er europæisk producent og distributør af holdningskorrigerende tøj med teknologi udviklet af amerikanske AlignMed - verdens eneste producent af holdningskorrigerende tøj, der er registreret hos USA’s føderale fødevare- og lægemiddelmyndighed (FDA). Anodyne® holdningskorrigerende tøj er som det eneste i Europa både FDA-registreret og MDR\/CE-mærket som medicinsk udstyr (Klasse I), hvilket er din garanti for, at vores produkter lever op til de krav, der stilles for medicinsk udstyr. Vi sælger også også en række forskellige <u><a href=\"\/collections\/rygstoette\">produkter til rygstøtte<\/a><\/u>, både i form af holdningsveste, <u><a href=\"\/collections\/skulderstoette\">skulderstøtter<\/a><\/u>, ergonomiske puder mm.",
+              "mission_description": "Med <u><a href=\"\/\">holdningskorrigerende tøj<\/a><\/u> fra Anodyne® kan du på en enkelt og ubesværet måde opnå en bedre kropsholdning og reducere smerter og spændinger i nakke, skuldre og ryg. Anodyne® <u><a href=\"\/collections\/alle-produkter\/\">holdningstøj til mænd og kvinder<\/a><\/u> hjælper dig til at øge din kropsholdningsbevidsthed og kan bruges både, når du sidder på kontoret, rejser, er aktiv på jobbet eller bruger det til træning. Anodyne® er europæisk producent og distributør af holdningskorrigerende tøj med teknologi udviklet af amerikanske AlignMed - verdens eneste producent af holdningskorrigerende tøj, der er registreret hos USA’s føderale fødevare- og lægemiddelmyndighed (FDA). Anodyne® holdningskorrigerende tøj er som det eneste i Europa både FDA-registreret og MDR\/CE-mærket som medicinsk udstyr (Klasse I), hvilket er din garanti for, at vores produkter lever op til de krav, der stilles for medicinsk udstyr. Vi sælger også en række forskellige <u><a href=\"\/collections\/rygstoette\">produkter til rygstøtte<\/a><\/u>, både i form af holdningsveste, <u><a href=\"\/collections\/skulderstoette\">skulderstøtter<\/a><\/u>, ergonomiske puder mm.",
               "column_width": 12,
               "column_width_mobile": 12,
               "text_alignment": "text-center",

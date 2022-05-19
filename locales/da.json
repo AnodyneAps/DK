@@ -324,13 +324,13 @@
       "regular_price": "Normalpris",
       "include_taxes": "Inklusive moms.",
       "shipping_policy_html": "<a href=\"{{ link }}\">Levering<\/a> beregnes ved betaling.",
-      "unit_price": "Stykpris"
+      "unit_price": "Antal"
     },
     "product": {
       "sold_out": "Udsolgt",
       "sold_out_html": "Udsolgt",
       "unavailable": "Ikke tilgængelig",
-      "quantity": "Stykpris",
+      "quantity": "Vælg antal",
       "add_to_cart": "Læg i indkøbskurv",
       "replace": "Erstat",
       "full_details": "Udførlige detaljer",
@@ -355,7 +355,7 @@
       "tab-delivery": "Levering og fragt"
     },
     "radios": {
-      "radio-one": "Køb",
+      "radio-one": "",
       "radio-save-amount": "Spar"
     },
     "sizes": {
