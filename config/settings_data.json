@@ -715,7 +715,7 @@
             "type": "message",
             "settings": {
               "announcement_text": "<p>Altid 30 dages fuld returret<\/p>",
-              "icon_selector": "smily",
+              "icon_selector": "retur",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
