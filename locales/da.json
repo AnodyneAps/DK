@@ -394,6 +394,9 @@
       },
       "order_summary": {
         "tip_label": "Co2 kompensation"
+      },
+      "payment": {
+        "klarna_label": "Klarna"
       }
     }
   }

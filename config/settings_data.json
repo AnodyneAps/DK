@@ -80,7 +80,7 @@
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
-    "dbtfy_cart_discount": true,
+    "dbtfy_cart_discount": false,
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
@@ -2082,6 +2082,13 @@
       "1630404145a76c9e4d",
       "1630409395746d29de",
       "16334458477be6bcd8"
-    ]
+    ],
+    "blocks": {
+      "1347510106265755124": {
+        "type": "shopify:\/\/apps\/essential-countdown-timer\/blocks\/app_embed\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   }
 }
