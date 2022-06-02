@@ -105,69 +105,69 @@ const removeActiveHomeTabItemClass = () => {
 }
 
 //topbar counter
-let announcementCounterEndText = document.querySelector('.announcement-end-text');
-let announcementEndTextBack = document.querySelector('.announcement-message');
-const announcementDateId = document.getElementById('announcement_counter');
-let announcementEventDate = announcementDateId.getAttribute('data-announcement-date');
-function TopBarUpdateTimer(at, someId ) {
-future = Date.parse(at);
-now = new Date();
-diff = future - now;
+// let announcementCounterEndText = document.querySelector('.announcement-end-text');
+// let announcementEndTextBack = document.querySelector('.announcement-message');
+// const announcementDateId = document.getElementById('announcement_counter');
+// let announcementEventDate = announcementDateId.getAttribute('[data-announcement-date]');
+// function TopBarUpdateTimer(at, someId ) {
+// future = Date.parse(at);
+// now = new Date();
+// diff = future - now;
 
-if(diff >= 0){
-days = Math.floor(diff / (1000 * 60 * 60 * 24));
-hours = Math.floor(diff / (1000 * 60 * 60));
-mins = Math.floor(diff / (1000 * 60));
-secs = Math.floor(diff / 1000);
-	//add zeros
-	function addZero(num) {
-		return ("0" + parseInt(num)).substr(-2);
-	}
-d = addZero(days);
-h = addZero(hours - days * 24);
-m = addZero(mins - hours * 60);
-s = addZero(secs - mins * 60);
+// if(diff >= 0){
+// days = Math.floor(diff / (1000 * 60 * 60 * 24));
+// hours = Math.floor(diff / (1000 * 60 * 60));
+// mins = Math.floor(diff / (1000 * 60));
+// secs = Math.floor(diff / 1000);
+// 	//add zeros
+// 	function addZero(num) {
+// 		return ("0" + parseInt(num)).substr(-2);
+// 	}
+// d = addZero(days);
+// h = addZero(hours - days * 24);
+// m = addZero(mins - hours * 60);
+// s = addZero(secs - mins * 60);
   
-  		if(d<1){
-          someId.innerHTML = `
-          <div class="announcement_number"><span class="digit">${h}</span><span class="announcement_text">T<span class="hide-small">imer</span></span></div>
-          <div class="announcement_number"><span class="digit">${m}</span><span class="announcement_text">M<span class="hide-small">inutter</span></span></div>
-          <div class="announcement_number"><span class="digit">${s}</span><span class="announcement_text">S<span class="hide-small">ekunder</span></span></div>
-          `
+//   		if(d<1){
+//           someId.innerHTML = `
+//           <div class="announcement_number"><span class="digit">${h}</span><span class="announcement_text">T<span class="hide-small">imer</span></span></div>
+//           <div class="announcement_number"><span class="digit">${m}</span><span class="announcement_text">M<span class="hide-small">inutter</span></span></div>
+//           <div class="announcement_number"><span class="digit">${s}</span><span class="announcement_text">S<span class="hide-small">ekunder</span></span></div>
+//           `
   
-  		}else{
+//   		}else{
     
-          someId.innerHTML = `
-          <div class="announcement_number"><span class="digit">${d}</span><span class="announcement_text">D<span class="hide-small">age</span></span></div>
-          <div class="announcement_number"><span class="digit">${h}</span><span class="announcement_text">T<span class="hide-small">imer</span></span></div>
-          <div class="announcement_number"><span class="digit">${m}</span><span class="announcement_text">M<span class="hide-small">inutter</span></span></div>
-          <div class="announcement_number"><span class="digit">${s}</span><span class="announcement_text">S<span class="hide-small">ekunder</span></span></div>
-          `
- 		 }
-    }else {
-        announcementEndTextBack.innerHTML = `${announcementCounterEndText.innerHTML}`;
-        someId.innerHTML ='';
-    }
-}
-setInterval('TopBarUpdateTimer(announcementEventDate, announcementDateId  )', 1000);
+//           someId.innerHTML = `
+//           <div class="announcement_number"><span class="digit">${d}</span><span class="announcement_text">D<span class="hide-small">age</span></span></div>
+//           <div class="announcement_number"><span class="digit">${h}</span><span class="announcement_text">T<span class="hide-small">imer</span></span></div>
+//           <div class="announcement_number"><span class="digit">${m}</span><span class="announcement_text">M<span class="hide-small">inutter</span></span></div>
+//           <div class="announcement_number"><span class="digit">${s}</span><span class="announcement_text">S<span class="hide-small">ekunder</span></span></div>
+//           `
+//  		 }
+//     }else {
+//         announcementEndTextBack.innerHTML = `${announcementCounterEndText.innerHTML}`;
+//         someId.innerHTML ='';
+//     }
+// }
+// setInterval('TopBarUpdateTimer(announcementEventDate, announcementDateId  )', 1000);
 
 
-function getDocHeight(doc) {
-    doc = doc || document;
-    // stackoverflow.com/questions/1145850/
-    var body = doc.body, html = doc.documentElement;
-    var height = Math.max( body.scrollHeight, body.offsetHeight, 
-        html.clientHeight, html.scrollHeight, html.offsetHeight );
-    return height;
-}
+// function getDocHeight(doc) {
+//     doc = doc || document;
+//     // stackoverflow.com/questions/1145850/
+//     var body = doc.body, html = doc.documentElement;
+//     var height = Math.max( body.scrollHeight, body.offsetHeight, 
+//         html.clientHeight, html.scrollHeight, html.offsetHeight );
+//     return height;
+// }
 
-function setIframeHeight(id) {
-    var ifrm = document.getElementById(id);
-    var doc = ifrm.contentDocument? ifrm.contentDocument: 
-        ifrm.contentWindow.document;
-    ifrm.style.visibility = 'hidden';
-    ifrm.style.height = "10px"; // reset to minimal height ...
-    // IE opt. for bing/msn needs a bit added or scrollbar appears
-    ifrm.style.height = getDocHeight( doc ) + 4 + "px";
-    ifrm.style.visibility = 'visible';
-}
+// function setIframeHeight(id) {
+//     var ifrm = document.getElementById(id);
+//     var doc = ifrm.contentDocument? ifrm.contentDocument: 
+//         ifrm.contentWindow.document;
+//     ifrm.style.visibility = 'hidden';
+//     ifrm.style.height = "10px"; // reset to minimal height ...
+//     // IE opt. for bing/msn needs a bit added or scrollbar appears
+//     ifrm.style.height = getDocHeight( doc ) + 4 + "px";
+//     ifrm.style.visibility = 'visible';
+// }

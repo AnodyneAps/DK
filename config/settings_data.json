@@ -1142,7 +1142,7 @@
           "image_position": "center center",
           "video_title": "<span class=\"first\">VELKOMMEN<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>Spar op til <\/strong><span style=\"text-decoration:underline\"><strong>50%<\/strong><\/span><strong> i vores store forårsudsalg. Alle produkter er nedsat!<\/strong><\/p>",
+          "text_description": "<p><strong>Få en bedre holdning med Anodyne®. Flere end 100.000 glade kunder i Danmark<\/strong><\/p>",
           "text_description_size": "medium",
           "button_label": "Mænd",
           "button_link": "shopify:\/\/collections\/maend",
@@ -2082,13 +2082,6 @@
       "1630404145a76c9e4d",
       "1630409395746d29de",
       "16334458477be6bcd8"
-    ],
-    "blocks": {
-      "1347510106265755124": {
-        "type": "shopify:\/\/apps\/essential-countdown-timer\/blocks\/app_embed\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    ]
   }
 }

@@ -269,7 +269,7 @@
   {% if content_for_header contains 'rio.pwztag.com' %}{% render 'productwiz-rio', product: product, shop: shop, installGuard: true %}{% endif %}
     
 <!-- Start of TIDIO script !-->
-<script src="//code.tidio.co/lshxvbf7zbpxfdntolmjiikgc1kvutyf.js" async></script>
+<!-- <script src="//code.tidio.co/lshxvbf7zbpxfdntolmjiikgc1kvutyf.js" async></script> -->
 <!-- End of TIDIO script !-->
 
 <!-- Start of Sleeknote signup and lead generation tool - www.sleeknote.com -->
@@ -294,7 +294,7 @@
 {% include 'sca.freegifts' %}
 
 
-<script async src="https://assets.apphero.co/script_tags/304163_141885.js"></script></head>
+</head>
 
   <body id="{{ page_title | handle }}"
         class="{% if settings.sticky_header %}sticky-header{% endif %}
@@ -390,15 +390,5 @@
     {%- if request.page_type == "product" -%}
     <script src="{{ 'dk-counter.js' | asset_url }}" ></script>
     {%- endif -%}
-  {% render 'awesome-quantity', product: product %}  <script src="//cdn.codeblackbelt.com/js/modules/frequently-bought-together/main.min.js?shop=anodyne-denmark.myshopify.com" defer></script>
-
-<!-- **BEGIN** Hextom USB Integration // Main Include - DO NOT MODIFY -->
-    {% render 'hextom_usb_main', product: product, customer: customer %}
-    <!-- **END** Hextom USB Integration // Main Include - DO NOT MODIFY -->
-
-<!-- **BEGIN** Hextom CTB Integration // Main Include - DO NOT MODIFY -->
-    {% render 'hextom_ctb_main', product: product, customer: customer %}
-    <!-- **END** Hextom CTB Integration // Main Include - DO NOT MODIFY -->
-{% render 'spurit_sct_theme_snippet' %}
 </body>
 </html>
