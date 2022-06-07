@@ -103,7 +103,6 @@ const removeActiveHomeTabItemClass = () => {
     homeTabItem.classList.remove('active')
   })
 }
-
 //topbar counter
 // let announcementCounterEndText = document.querySelector('.announcement-end-text');
 // let announcementEndTextBack = document.querySelector('.announcement-message');
