@@ -667,7 +667,13 @@
 
                 <!-- Nl basic counter start -->
                 <div class="nlify-counter">
-                <div id="dk___js-counter"></div>
+                <!-- <div id="dk___js-counter"></div> -->
+                {% if section.settings.instead-of-counter-text != blank %}
+                <a href="{% if section.settings.instead-of-counter-link != blank%}{{ section.settings.instead-of-counter-link}}{% endif %} /" class="instead-of-counter-link">
+                  <p>{{section.settings.instead-of-counter-text}}</p>
+                </a>
+                {% endif %}
+
               </div>
               <!-- Nl basic counter end -->
               

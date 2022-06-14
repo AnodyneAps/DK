@@ -10023,9 +10023,17 @@ body:not(.dbtfy-wish_list-destroy) {
 
 .nlify-counter{
   margin: $gutter-sm 0;
-  padding: $gutter-sm;
-  border: 1px solid darken($white, 6%);
-  background-color: darken($white, 3%);
+  .instead-of-counter-link{
+    display: block;
+    padding: 16px 8px 8px 8px;
+    border: 1px solid darken($white, 6%);
+    background-color: darken($white, 3%);
+    cursor: pointer;
+    p{
+      cursor: pointer;
+     text-align: center;
+    }
+  }
   .timer__wrapper{
     .timer__text{
       font-size:1.25rem;

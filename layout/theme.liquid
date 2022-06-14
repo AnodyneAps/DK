@@ -268,6 +268,16 @@
 
   {% if content_for_header contains 'rio.pwztag.com' %}{% render 'productwiz-rio', product: product, shop: shop, installGuard: true %}{% endif %}
     
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FZFPWTXDWN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FZFPWTXDWN');
+</script>
+
 <!-- Start of TIDIO script !-->
 <!-- <script src="//code.tidio.co/lshxvbf7zbpxfdntolmjiikgc1kvutyf.js" async></script> -->
 <!-- End of TIDIO script !-->
@@ -390,5 +400,6 @@
     {%- if request.page_type == "product" -%}
     <script src="{{ 'dk-counter.js' | asset_url }}" ></script>
     {%- endif -%}
+
 </body>
 </html>
