@@ -1515,6 +1515,8 @@
           "dbtfy_product_description_position": "separate_section",
           "description_style": "section-border",
           "text_alignment": "text-center",
+          "instead-of-counter-text": "<p><strong>Vil du have 30% rabat? Så <\/strong><span style=\"text-decoration:underline\"><strong>klik her<\/strong><\/span><\/p>",
+          "instead-of-counter-link": "shopify:\/\/pages\/rabatkode",
           "text_alignment_mobile": "small--text-center"
         }
       },
