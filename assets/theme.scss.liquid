@@ -2501,7 +2501,7 @@ html, body {
 }
 
 body {
-  margin: 0;
+  margin:0;
   background-color: $colorBody;
   overflow-x: hidden;
 
@@ -6442,6 +6442,7 @@ cite {
   @include colorOverwrite($colorFooter, $colorFooterDefault, $colorFooterBorder, $colorFooterText, $colorFooterPrimary, $colorFooterSecondary, $colorFooterButtonText, $colorFooterInput, $colorFooterSalesPrice);
   position: relative;
   z-index: $zindexBase;
+  margin-bottom: 40px;
 
   // Select
   select {
@@ -10506,6 +10507,105 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
     }
   }
 }
+
+// site flip clock 
+.flip-container{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-size: 1rem;
+  height: 40px;
+  background-color: $cAccent;
+  gap: .15em;
+  z-index: 9999;
+  }
+  .flip-container .flip-outer-text{
+    color: white;
+    font-size: 1rem;
+    padding: 0 10px;
+  }
+  .dots{
+   color: white;
+  }
+  .flip-group{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .flip-group-title{
+    font-size: .8rem;
+  }
+  .flip-wrapper{
+    display: flex;
+    gap:.15em;
+  }
+  .flip-card {
+    position: relative;
+    display: inline-flex;
+    flex-direction: column;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .2);
+    border-radius: 3px;
+  }
+  
+  .top,
+  .bottom,
+  .flip-card .top-flip,
+  .flip-card .bottom-flip {
+    height: 12px;
+    line-height: 1;
+    padding: 4px;
+    overflow: hidden;
+  }
+  
+  .top,
+  .flip-card .top-flip {
+    background-color: #f7f7f7;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    border-bottom: 0.5px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .bottom,
+  .flip-card .bottom-flip {
+    background-color: white;
+    display: flex;
+    align-items: flex-end;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+  }
+  
+  .flip-card .top-flip {
+    position: absolute;
+    width: 100%;
+    animation: flip-top 250ms ease-in;
+    transform-origin: bottom;
+  }
+  
+  @keyframes flip-top {
+    100% {
+      transform: rotateX(90deg);
+    }
+  }
+  
+  .flip-card .bottom-flip {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    animation: flip-bottom 250ms ease-out 250ms;
+    transform-origin: top;
+    transform: rotateX(90deg);
+  }
+  
+  @keyframes flip-bottom {
+    100% {
+      transform: rotateX(0deg);
+    }
+  }
+  
 
 {%- if settings.custom_style != blank -%}
 /*================ _custom_styles ================*/

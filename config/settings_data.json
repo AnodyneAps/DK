@@ -282,7 +282,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -292,7 +292,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-sort",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -302,7 +302,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-sort",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -312,7 +312,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -322,7 +322,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -332,7 +332,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-sort",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -342,7 +342,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-sort",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -352,7 +352,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -362,7 +362,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -372,7 +372,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-mint",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -382,7 +382,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-bordeaux",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -392,7 +392,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -402,7 +402,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -432,9 +432,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-bla",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -442,9 +442,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -452,9 +452,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -462,9 +462,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-zipper-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -472,9 +472,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-zipper-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -482,7 +482,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt™-bla",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -492,7 +492,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-bordeaux",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -502,9 +502,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -512,9 +512,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -522,9 +522,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -532,7 +532,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-zipper-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -542,9 +542,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-zipper-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -552,9 +552,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-zipper-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "vaskepose-til-posture-shirt",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -562,7 +562,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-blaa",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -572,7 +572,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -582,7 +582,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-nude",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -592,7 +592,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-sort",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -602,7 +602,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-blaa",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -612,7 +612,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-bla",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -714,7 +714,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Klik her og få <span style=\"text-decoration:underline\">30% rabat<\/span> på alle produkter <\/p>",
+              "announcement_text": "<p>Klik her og få <span style=\"text-decoration:underline\">10% ekstra rabat<\/span> på alt<\/p>",
               "icon_selector": "none",
               "announcement_counter": "",
               "announcement_link": "shopify:\/\/pages\/rabatkode",
@@ -1515,7 +1515,7 @@
           "dbtfy_product_description_position": "separate_section",
           "description_style": "section-border",
           "text_alignment": "text-center",
-          "instead-of-counter-text": "<p><strong>Vil du have 30% rabat? Så <\/strong><span style=\"text-decoration:underline\"><strong>klik her<\/strong><\/span><\/p>",
+          "instead-of-counter-text": "<p><strong>Vil du have 10% ekstra rabat? <\/strong><span style=\"text-decoration:underline\"><strong>Klik her<\/strong><\/span><\/p>",
           "instead-of-counter-link": "shopify:\/\/pages\/rabatkode",
           "text_alignment_mobile": "small--text-center"
         }
