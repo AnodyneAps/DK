@@ -282,9 +282,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din BH (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -292,9 +292,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -312,9 +312,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -332,9 +332,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -352,9 +352,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -372,9 +372,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-mint",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -382,9 +382,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-bordeaux",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -392,9 +392,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -402,9 +402,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -562,9 +562,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din BH (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-blaa",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -572,9 +572,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din BH (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -582,9 +582,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din BH (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -592,9 +592,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din BH (vælg din normale størrelse).",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -901,7 +901,9 @@
           "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
-          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N - CVR: 37167053<br\/><em>(NB: Intet salg på adressen)<\/em><\/p><p><\/p>"
+          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N - CVR: 37167053<br\/><em>(NB: Intet salg på adressen)<\/em><\/p><p><\/p>",
+          "bottom_counter_text": "Vi sender din pakke om",
+          "show_bottom_counter": true
         }
       },
       "product-template": {
