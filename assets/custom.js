@@ -151,6 +151,11 @@ const removeActiveHomeTabItemClass = () => {
 // setInterval('TopBarUpdateTimer(announcementEventDate, announcementDateId  )', 1000);
 
 // flip clock 
+const closeBtn = document.querySelector(".close__btn");
+const flipBar = document.querySelector(".flip-container");
+closeBtn.addEventListener("click", ()=>{
+	flipBar.classList.add("hide");
+});
 
 setInterval(() => {
 	//set day hours

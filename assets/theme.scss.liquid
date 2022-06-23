@@ -6442,7 +6442,7 @@ cite {
   @include colorOverwrite($colorFooter, $colorFooterDefault, $colorFooterBorder, $colorFooterText, $colorFooterPrimary, $colorFooterSecondary, $colorFooterButtonText, $colorFooterInput, $colorFooterSalesPrice);
   position: relative;
   z-index: $zindexBase;
-  margin-bottom: 40px;
+  padding-bottom: 40px;
 
   // Select
   select {
@@ -10528,6 +10528,12 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
   background-color: $cAccent;
   gap: .15em;
   z-index: 9999;
+  @include screenUp($postSmall){
+    height: 50px;
+  }
+  &.hide{
+    display: none !important;
+  }
   .flip-outer-text{
     color: $white;
     font-size: 1.2rem;
@@ -10622,6 +10628,41 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
       }
     }
    }
+   .close__btn{
+    display: none;
+    color: white;
+    position: absolute;
+    bottom: 4px;
+    right: 20px;
+    z-index: 999;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    @include transition($transitions);
+    @include screenUp($postSmall){
+    display: block;
+    }
+    &:hover{
+      transform: rotate(45deg);
+    }
+  }
+  .close__btn::after,
+  .close__btn::before{
+    content: '';
+    position: absolute;
+    top:50%;
+    left: 25%;
+    transform: translate(-75%, -50%);
+    width: 20px;
+    height: .5px;
+    background-color: $white;
+  }
+  .close__btn::after{
+    transform: rotate(-45deg);
+  }
+  .close__btn::before{
+    transform: rotate(45deg);
+  }
   }
 
 //counter animation keys
