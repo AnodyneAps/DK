@@ -1,7 +1,6 @@
 <div class="flip-container">
-	<span class="flip-outer-text"> {% if section.settings.bottom_counter_text != blank %}
-		{{section.settings.bottom_counter_text}}
-	{% endif %}:</span>
+	<span class="flip-outer-text">{%- if section.settings.bottom_counter_text != blank -%}
+		{{section.settings.bottom_counter_text -}}{%- endif -%}:</span>
 	<div class="flip-group">
 		<!-- <div class="flip-group-title">Hours</div> -->
 		<div class="flip-wrapper">
