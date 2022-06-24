@@ -10510,159 +10510,163 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
 
 // site flip clock 
 .flip-container{
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  width: 100%;
-  font-size: 1rem;
-  height: 40px;
-  background-color: $cAccent;
-  gap: .15em;
-  z-index: 9999;
-  @include screenUp($postSmall){
-    height: 50px;
-  }
-  &.hide{
-    display: none !important;
-  }
-  .flip-outer-text{
-    color: $white;
-    font-size: 1.2rem;
-    padding: 0 6px;
-    letter-spacing: -1.5px;
-    font-style: italic;
-  }
-  .dots{
-    color: $white;
-   }
-   .flip-group{
+  display: none;
+  &.show-flip {
+    position: fixed;
+    bottom: 0;
+    left: 0;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    .flip-group-title{
-      font-size: .8rem;
+    width: 100%;
+    font-size: 1rem;
+    height: 40px;
+    background-color: $cAccent;
+    gap: .15em;
+    z-index: 9999;
+    @include screenUp($postSmall){
+      height: 50px;
     }
-    .flip-wrapper{
+    .flip-outer-text{
+      color: $white;
+      font-size: 1.2rem;
+      padding: 0 6px;
+      letter-spacing: -1.5px;
+      font-style: italic;
+    }
+    .dots{
+      color: $white;
+     }
+     .flip-group{
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
-      gap:.15em;
-      .flip-card {
-        position: relative;
-        display: -webkit-inline-box;
-        display: -ms-inline-flexbox;
-        display: inline-flex;
-        -webkit-box-orient: vertical;
-        -webkit-box-direction: normal;
-            -ms-flex-direction: column;
-                flex-direction: column;
-        -webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .2);
-                box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .2);
-        border-radius: 2px;
-
-        .top,
-        .bottom,
-        .top-flip,
-        .bottom-flip {
-          height: 12px;
-          line-height: 1;
-          padding: 4px;
-          overflow: hidden;
-        }
-        .top,
-        .top-flip {
-          background-color: lighten($colorLightGray, 28%);
-          border-top-right-radius: 2px;
-          border-top-left-radius: 2px;
-          border-bottom: 0.5px solid rgba(0, 0, 0, 0.1);
-        }
-        .bottom,
-        .bottom-flip {
-          background-color: $white;
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex;
-          -webkit-box-align: end;
-              -ms-flex-align: end;
-                  align-items: flex-end;
-          border-bottom-right-radius: 2px;
-          border-bottom-left-radius: 2px;
-        }
-        .top-flip {
-          position: absolute;
-          width: 100%;
-          -webkit-animation: flip-top 250ms ease-in;
-                  animation: flip-top 250ms ease-in;
-          -webkit-transform-origin: bottom;
-              -ms-transform-origin: bottom;
-                  transform-origin: bottom;
-        }
-       .bottom-flip {
-          position: absolute;
-          bottom: 0;
-          width: 100%;
-          -webkit-animation: flip-bottom 250ms ease-out 250ms;
-                  animation: flip-bottom 250ms ease-out 250ms;
-          -webkit-transform-origin: top;
-              -ms-transform-origin: top;
-                  transform-origin: top;
-          -webkit-transform: rotateX(90deg);
-                  transform: rotateX(90deg);
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      .flip-group-title{
+        font-size: .8rem;
+      }
+      .flip-wrapper{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        gap:.15em;
+        .flip-card {
+          position: relative;
+          display: -webkit-inline-box;
+          display: -ms-inline-flexbox;
+          display: inline-flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+              -ms-flex-direction: column;
+                  flex-direction: column;
+          -webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .2);
+                  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .2);
+          border-radius: 2px;
+  
+          .top,
+          .bottom,
+          .top-flip,
+          .bottom-flip {
+            height: 12px;
+            line-height: 1;
+            padding: 4px;
+            overflow: hidden;
+          }
+          .top,
+          .top-flip {
+            background-color: lighten($colorLightGray, 28%);
+            border-top-right-radius: 2px;
+            border-top-left-radius: 2px;
+            border-bottom: 0.5px solid rgba(0, 0, 0, 0.1);
+          }
+          .bottom,
+          .bottom-flip {
+            background-color: $white;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: end;
+                -ms-flex-align: end;
+                    align-items: flex-end;
+            border-bottom-right-radius: 2px;
+            border-bottom-left-radius: 2px;
+          }
+          .top-flip {
+            position: absolute;
+            width: 100%;
+            -webkit-animation: flip-top 250ms ease-in;
+                    animation: flip-top 250ms ease-in;
+            -webkit-transform-origin: bottom;
+                -ms-transform-origin: bottom;
+                    transform-origin: bottom;
+          }
+         .bottom-flip {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            -webkit-animation: flip-bottom 250ms ease-out 250ms;
+                    animation: flip-bottom 250ms ease-out 250ms;
+            -webkit-transform-origin: top;
+                -ms-transform-origin: top;
+                    transform-origin: top;
+            -webkit-transform: rotateX(90deg);
+                    transform: rotateX(90deg);
+          }
         }
       }
+     }
+     .close__btn{
+      display: none;
+      color: $white;
+      position: absolute;
+      bottom: 4px;
+      right: 20px;
+      z-index: 999;
+      width: 40px;
+      height: 40px;
+      cursor: pointer;
+      @include transition($transitions);
+      @include screenUp($postSmall){
+      display: block;
+      }
+      &:hover{
+        transform: scale(1.2);
+        color: $white;
+      }
     }
-   }
-   .close__btn{
-    display: none;
-    color: white;
-    position: absolute;
-    bottom: 4px;
-    right: 20px;
-    z-index: 999;
-    width: 40px;
-    height: 40px;
-    cursor: pointer;
-    @include transition($transitions);
-    @include screenUp($postSmall){
-    display: block;
+    .close__btn::after,
+    .close__btn::before{
+      content: '';
+      position: absolute;
+      top:50%;
+      left: 25%;
+      transform: translate(-75%, -50%);
+      width: 20px;
+      height: .5px;
+      background-color: $white;
     }
-    &:hover{
+    .close__btn::after{
+      transform: rotate(-45deg);
+    }
+    .close__btn::before{
       transform: rotate(45deg);
     }
-  }
-  .close__btn::after,
-  .close__btn::before{
-    content: '';
-    position: absolute;
-    top:50%;
-    left: 25%;
-    transform: translate(-75%, -50%);
-    width: 20px;
-    height: .5px;
-    background-color: $white;
-  }
-  .close__btn::after{
-    transform: rotate(-45deg);
-  }
-  .close__btn::before{
-    transform: rotate(45deg);
-  }
+   }
+   &.hide{
+    display: none !important;
+   }
   }
 
 //counter animation keys

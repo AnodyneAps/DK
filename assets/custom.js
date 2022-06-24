@@ -150,12 +150,49 @@ const removeActiveHomeTabItemClass = () => {
 // }
 // setInterval('TopBarUpdateTimer(announcementEventDate, announcementDateId  )', 1000);
 
-// flip clock 
 const closeBtn = document.querySelector(".close__btn");
 const flipBar = document.querySelector(".flip-container");
+
 closeBtn.addEventListener("click", ()=>{
-	flipBar.classList.add("hide");
+	localStorage.setItem("className", "show-flip");
+	let classFromLocalStorage = localStorage.getItem("className");
+	if (!classFromLocalStorage){
+		flipBar.classList.add("show-flip")
+	}
+	flipBar.classList.remove("show-flip");
 });
+
+const checkCookie = () => {
+	let classFromLocalStorage = localStorage.getItem("className");
+	if(classFromLocalStorage == "show-flip") {
+		flipBar.classList.add("hide");
+		flipBar.classList.remove("show-flip");
+	} else {
+		flipBar.classList.add("show-flip");
+		flipBar.classList.remove("hide");
+	}
+}
+
+window.onload = () =>{
+	setTimeout(()=>{
+		checkCookie();
+	},1000)
+}
+
+
+// clear localStorage after some time 
+let  minute = 5; // to clear the localStorage after 1 minute
+               // (if someone want to clear after 1 hour multiply by extra 60 or if you want to add more minuttes simply add 10 infront of minute variable)
+let now = new Date().getTime();
+var setupTime = localStorage.getItem('setupTime');
+if (setupTime == null) {
+    localStorage.setItem('setupTime', now)
+} else {
+    if(now-setupTime > minute*60*1000) {
+       localStorage.removeItem("className");
+        localStorage.setItem('setupTime', now);
+    }
+}
 
 setInterval(() => {
 	//set day hours
