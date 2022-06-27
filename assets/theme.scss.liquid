@@ -10631,11 +10631,11 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
       display: none;
       color: $white;
       position: absolute;
-      bottom: 4px;
+      bottom: 10px;
       right: 20px;
       z-index: 999;
-      width: 40px;
-      height: 40px;
+      width: 30px;
+      height: 30px;
       cursor: pointer;
       @include transition($transitions);
       @include screenUp($postSmall){
@@ -10644,6 +10644,9 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
       &:hover{
         transform: scale(1.2);
         color: $white;
+        background-color: lighten($cAccent, 10%);
+        border-radius: 5px;
+        border: 2px solid $white;
       }
     }
     .close__btn::after,
@@ -10651,10 +10654,10 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
       content: '';
       position: absolute;
       top:50%;
-      left: 25%;
-      transform: translate(-75%, -50%);
-      width: 20px;
-      height: .5px;
+      left: 15%;
+      transform: translate(-85%, -50%);
+      width: 18px;
+      height: 1px;
       background-color: $white;
     }
     .close__btn::after{

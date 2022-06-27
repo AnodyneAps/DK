@@ -181,7 +181,7 @@ window.onload = () =>{
 
 
 // clear localStorage after some time 
-let  minute = 5; // to clear the localStorage after 1 minute
+let  minute = 3; // to clear the localStorage after 1 minute
                // (if someone want to clear after 1 hour multiply by extra 60 or if you want to add more minuttes simply add 10 infront of minute variable)
 let now = new Date().getTime();
 var setupTime = localStorage.getItem('setupTime');
