@@ -664,18 +664,18 @@
               {%- endif -%}
             </div>
             
-
                 <!-- Nl basic counter start -->
-                <div class="nlify-counter">
-                <!-- <div id="dk___js-counter"></div> -->
-                {% if section.settings.instead-of-counter-text != blank %}
-                <a href="{% if section.settings.instead-of-counter-link != blank%}{{ section.settings.instead-of-counter-link}}{% endif %} /" class="instead-of-counter-link">
-                  <p>{{section.settings.instead-of-counter-text}}</p>
-                </a>
-                {% endif %}
-
-              </div>
-              <!-- Nl basic counter end -->
+              {% if section.settings.show_instead_of_counter_text %}
+                  <div class="nlify-counter">
+                  <!-- <div id="dk___js-counter"></div> -->
+                  {% if section.settings.instead-of-counter-text != blank %}
+                  <a href="{% if section.settings.instead-of-counter-link != blank%}{{ section.settings.instead-of-counter-link}}{% endif %} /" class="instead-of-counter-link">
+                    <p>{{section.settings.instead-of-counter-text}}</p>
+                  </a>
+                  {% endif %}
+                </div>
+                <!-- Nl basic counter end -->
+              {% endif %}
               
             {%- render "dbtfy-trust-badge", position: "product_page" -%}
 
