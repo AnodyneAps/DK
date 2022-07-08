@@ -30,7 +30,7 @@
     "browsing_link": "shopify:\/\/collections\/alle-produkter",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
-    "color_announcement_bg": "#252525",
+    "color_announcement_bg": "#464847",
     "color_nav_text": "#252525",
     "color_default": "#f7f7f7",
     "color_headings": "#252525",
@@ -84,7 +84,7 @@
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
-    "dbtfy_cookie_box": false,
+    "dbtfy_cookie_box": true,
     "dbtfy_custom_currencies": false,
     "dbtfy_delivery_time": false,
     "dbtfy_inactive_tab_message": false,
@@ -185,7 +185,7 @@
     "dbtfy_social_discount_reward_code": "20GWS15",
     "dbtfy_social_discount_reward_amount": "10",
     "dbtfy_trust_badge_cart": false,
-    "dbtfy_trust_badge_image": "shopify:\/\/shop_images\/Payment_denmark.png",
+    "dbtfy_trust_badge_image": "shopify:\/\/shop_images\/dk_betaling.png",
     "dbtfy_trust_badge_text": "Nem, hurtig og sikker betaling",
     "dbtfy_wish_list_add_text": "Føj til ønskeliste",
     "dbtfy_wish_list_remove_text": "Fjern fra ønskeliste",
@@ -282,9 +282,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din BH (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -292,9 +292,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -302,7 +302,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-sort",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -312,9 +312,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -322,7 +322,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -332,9 +332,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -342,7 +342,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-sort",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -352,9 +352,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -362,7 +362,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -372,9 +372,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-mint",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -382,9 +382,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-womens-posture-shirt-bordeaux",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -392,9 +392,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -402,9 +402,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din Posture Shirt (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -432,7 +432,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-bla",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -442,7 +442,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -452,7 +452,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-sort",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -462,7 +462,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-zipper-hvid",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -472,7 +472,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "demo-mens-posture-shirt-zipper-sort",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -562,9 +562,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din BH (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-blaa",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -572,9 +572,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din BH (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-hvid",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -582,9 +582,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din BH (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -592,9 +592,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Tilføj et par <strong>træningstights<\/strong> til din BH (vælg din normale størrelse).",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "alignme-interactive-bra-sort",
-              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-leggings-blaa",
+              "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
             }
           },
@@ -602,7 +602,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 249 kr)",
+              "dbtfy_cart_specific_upsell_title": "<strong>UGENS DEAL! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-blaa",
               "dbtfy_cart_specific_upsell_product_offer": "skulderstotte-basic-tilkob",
               "dbtfy_cart_specific_upsell_btn_title": "Tilføj"
@@ -714,7 +714,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Klik her og få <span style=\"text-decoration:underline\">10% ekstra rabat<\/span> på alt<\/p>",
+              "announcement_text": "<p><span style=\"text-decoration:underline\"><strong>Klik her<\/strong><\/span> og få 10% ekstra rabat<\/p>",
               "icon_selector": "none",
               "announcement_counter": "",
               "announcement_link": "shopify:\/\/pages\/rabatkode",
@@ -1517,9 +1517,10 @@
           "dbtfy_product_description_position": "separate_section",
           "description_style": "section-border",
           "text_alignment": "text-center",
+          "text_alignment_mobile": "small--text-center",
+          "show_instead_of_counter_text": true,
           "instead-of-counter-text": "<p><strong>Vil du have 10% ekstra rabat? <\/strong><span style=\"text-decoration:underline\"><strong>Klik her<\/strong><\/span><\/p>",
-          "instead-of-counter-link": "shopify:\/\/pages\/rabatkode",
-          "text_alignment_mobile": "small--text-center"
+          "instead-of-counter-link": "shopify:\/\/pages\/rabatkode"
         }
       },
       "product-cards": {
@@ -2065,6 +2066,15 @@
       "1630404145a76c9e4d",
       "1630409395746d29de",
       "16334458477be6bcd8"
-    ]
+    ],
+    "blocks": {
+      "O3R5dlisyTtZztkjiP": {
+        "type": "shopify:\/\/apps\/drip-email-marketing\/blocks\/drip_shopify_snippet\/0c4de56d-b2fa-4621-acea-6293bc16aba8",
+        "disabled": false,
+        "settings": {
+          "account_param": "9047146"
+        }
+      }
+    }
   }
 }
