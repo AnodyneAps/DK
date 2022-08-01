@@ -714,19 +714,38 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><span style=\"text-decoration:underline\"><strong>Klik her<\/strong><\/span> og få 10% ekstra rabat<\/p>",
-              "icon_selector": "none",
+              "announcement_text": "<p>30 dages fuld returret<\/p>",
+              "icon_selector": "retur",
               "announcement_counter": "",
-              "announcement_link": "shopify:\/\/pages\/rabatkode",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
           "90dc1ffb-6fa9-4684-9a72-1d28a9cbed0e": {
             "type": "message",
-            "disabled": true,
             "settings": {
-              "announcement_text": "<p>KLIK HER<\/p>",
-              "icon_selector": "none",
+              "announcement_text": "<p>Gratis retur og ombytning<\/p>",
+              "icon_selector": "star",
+              "announcement_counter": "",
+              "announcement_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "d93c32a9-c743-4f4e-a2a3-b679759d77db": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Gratis fragt ved køb over 399 kr<\/p>",
+              "icon_selector": "lastbil",
+              "announcement_counter": "",
+              "announcement_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "680bc722-1dca-4626-ad8b-c8a984acbde0": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Flere end 100.000 glade kunder i DK<\/p>",
+              "icon_selector": "flyben",
               "announcement_counter": "",
               "announcement_link": "",
               "announcement_end_text": ""
@@ -735,14 +754,16 @@
         },
         "block_order": [
           "announcement-0",
-          "90dc1ffb-6fa9-4684-9a72-1d28a9cbed0e"
+          "90dc1ffb-6fa9-4684-9a72-1d28a9cbed0e",
+          "d93c32a9-c743-4f4e-a2a3-b679759d77db",
+          "680bc722-1dca-4626-ad8b-c8a984acbde0"
         ],
         "settings": {
           "show_announcement": true,
           "show_social": false,
           "email": true,
           "phone": true,
-          "left_message": "",
+          "left_message": "<p>Vi forbedrer din kropsholdning<\/p>",
           "right_message": "<p><a href=\"\/pages\/kontakt\" target=\"_blank\" title=\"\/pages\/kontakt\">Kontakt<\/a><\/p>",
           "announcement_autoplayspeed": 3
         }
@@ -1157,7 +1178,7 @@
             "type": "service",
             "settings": {
               "title": "Danskernes foretrukne",
-              "description": "Flere end 100.000 glade, danske kunder kan ikke tage fejl... Vi har 4.8 ud af 5 på TrustPilot.",
+              "description": "Flere end 100.000 glade, danske kunder kan ikke tage fejl... Vi har 4.9 ud af 5 på TrustPilot.",
               "icon": "shopify:\/\/shop_images\/Smile2_200px.png",
               "uspLinkUrl": "shopify:\/\/pages\/levering-og-forsendelse"
             }
